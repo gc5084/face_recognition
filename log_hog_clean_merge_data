@@ -1,0 +1,7 @@
+if system_dependent('IsDebugMode')==1, dbquit; end
+[Warning: Columns of X are linearly dependent to within machine precision.
+Using only the first 941 components to compute TSQUARED.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('pca>localTSquared', 'D:\Program Files\MATLAB\R2018b\toolbox\stats\stats\pca.m', 511)" style="font-weight:bold">pca>localTSquared</a> (<a href="matlab: opentoline('D:\Program Files\MATLAB\R2018b\toolbox\stats\stats\pca.m',511,0)">line 511</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('pca', 'D:\Program Files\MATLAB\R2018b\toolbox\stats\stats\pca.m', 357)" style="font-weight:bold">pca</a> (<a href="matlab: opentoline('D:\Program Files\MATLAB\R2018b\toolbox\stats\stats\pca.m',357,0)">line 357</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('TestFeatureExtractionHogSVM', 'F:\spain\UPF\course\face and gesture analysis\project_4\team_code\new_code\FaceAndGesture-Lab4\FeatureExtraction\TestFeatureExtractionHogSVM.m', 45)" style="font-weight:bold">TestFeatureExtractionHogSVM</a> (<a href="matlab: opentoline('F:\spain\UPF\course\face and gesture analysis\project_4\team_code\new_code\FaceAndGesture-Lab4\FeatureExtraction\TestFeatureExtractionHogSVM.m',45,0)">line 45</a>)] 
+Accuracy from CV: 42.83

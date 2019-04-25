@@ -1,2 +1,2 @@
 # face_recognition
-face recognition code (demo) 
+face recognition code (demo, partial) 

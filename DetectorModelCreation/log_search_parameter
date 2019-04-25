@@ -1,0 +1,1620 @@
+F1-score: 	84.76% 	Time in seconds 	67.322686 	 Total time: 1m 7s
+F1-score: 	80.86% 	Time in seconds 	56.009498 	 Total time: 1m 56s
+F1-score: 	78.65% 	Time in seconds 	50.986890 	 Total time: 1m 51s
+F1-score: 	84.34% 	Time in seconds 	69.877747 	 Total time: 1m 10s
+F1-score: 	80.45% 	Time in seconds 	53.752635 	 Total time: 1m 54s
+MergeThreshold 	8 	 MinSize 	20 Avg: 81.81 
+F1-score: 	84.76% 	Time in seconds 	46.504446 	 Total time: 1m 47s
+F1-score: 	80.25% 	Time in seconds 	39.802847 	 Total time: 1m 40s
+F1-score: 	78.96% 	Time in seconds 	36.504976 	 Total time: 1m 37s
+F1-score: 	84.34% 	Time in seconds 	50.150923 	 Total time: 1m 50s
+F1-score: 	81.15% 	Time in seconds 	38.593739 	 Total time: 1m 39s
+MergeThreshold 	8 	 MinSize 	25 Avg: 81.89 
+F1-score: 	84.76% 	Time in seconds 	38.944075 	 Total time: 1m 39s
+F1-score: 	80.57% 	Time in seconds 	33.525345 	 Total time: 1m 34s
+F1-score: 	79.30% 	Time in seconds 	30.523111 	 Total time: 1m 31s
+F1-score: 	84.34% 	Time in seconds 	42.043517 	 Total time: 1m 42s
+F1-score: 	81.15% 	Time in seconds 	32.417572 	 Total time: 1m 32s
+MergeThreshold 	8 	 MinSize 	30 Avg: 82.02 
+F1-score: 	84.76% 	Time in seconds 	36.150073 	 Total time: 1m 36s
+F1-score: 	80.57% 	Time in seconds 	30.960876 	 Total time: 1m 31s
+F1-score: 	79.70% 	Time in seconds 	28.433943 	 Total time: 0m 28s
+F1-score: 	84.34% 	Time in seconds 	39.044512 	 Total time: 1m 39s
+F1-score: 	81.15% 	Time in seconds 	30.043102 	 Total time: 1m 30s
+MergeThreshold 	8 	 MinSize 	35 Avg: 82.10 
+F1-score: 	85.16% 	Time in seconds 	32.047544 	 Total time: 1m 32s
+F1-score: 	80.97% 	Time in seconds 	27.413444 	 Total time: 0m 27s
+F1-score: 	79.23% 	Time in seconds 	25.620624 	 Total time: 0m 26s
+F1-score: 	84.34% 	Time in seconds 	35.165844 	 Total time: 1m 35s
+F1-score: 	81.47% 	Time in seconds 	26.994640 	 Total time: 0m 27s
+MergeThreshold 	8 	 MinSize 	40 Avg: 82.23 
+F1-score: 	85.57% 	Time in seconds 	27.105183 	 Total time: 0m 27s
+F1-score: 	81.62% 	Time in seconds 	22.963860 	 Total time: 0m 23s
+F1-score: 	79.54% 	Time in seconds 	20.989448 	 Total time: 0m 21s
+F1-score: 	85.08% 	Time in seconds 	28.999570 	 Total time: 0m 29s
+F1-score: 	82.51% 	Time in seconds 	22.325684 	 Total time: 0m 22s
+MergeThreshold 	8 	 MinSize 	45 Avg: 82.86 
+F1-score: 	85.57% 	Time in seconds 	22.229524 	 Total time: 0m 22s
+F1-score: 	81.97% 	Time in seconds 	18.965918 	 Total time: 0m 19s
+F1-score: 	79.57% 	Time in seconds 	17.385379 	 Total time: 0m 17s
+F1-score: 	86.58% 	Time in seconds 	23.997540 	 Total time: 0m 24s
+F1-score: 	83.19% 	Time in seconds 	18.486254 	 Total time: 0m 18s
+MergeThreshold 	8 	 MinSize 	50 Avg: 83.37 
+F1-score: 	85.95% 	Time in seconds 	18.447607 	 Total time: 0m 18s
+F1-score: 	82.30% 	Time in seconds 	15.732694 	 Total time: 0m 16s
+F1-score: 	81.92% 	Time in seconds 	14.332963 	 Total time: 0m 14s
+F1-score: 	87.33% 	Time in seconds 	19.850739 	 Total time: 0m 20s
+F1-score: 	84.30% 	Time in seconds 	15.305986 	 Total time: 0m 15s
+MergeThreshold 	8 	 MinSize 	55 Avg: 84.36 
+F1-score: 	86.35% 	Time in seconds 	15.394077 	 Total time: 0m 15s
+F1-score: 	83.04% 	Time in seconds 	13.060947 	 Total time: 0m 13s
+F1-score: 	82.74% 	Time in seconds 	11.952056 	 Total time: 0m 12s
+F1-score: 	88.06% 	Time in seconds 	17.512960 	 Total time: 0m 18s
+F1-score: 	84.38% 	Time in seconds 	12.673964 	 Total time: 0m 13s
+MergeThreshold 	8 	 MinSize 	60 Avg: 84.91 
+F1-score: 	86.48% 	Time in seconds 	12.941407 	 Total time: 0m 13s
+F1-score: 	83.83% 	Time in seconds 	10.835344 	 Total time: 0m 11s
+F1-score: 	82.95% 	Time in seconds 	9.835174 	 Total time: 0m 10s
+F1-score: 	88.14% 	Time in seconds 	13.758189 	 Total time: 0m 14s
+F1-score: 	84.18% 	Time in seconds 	10.603481 	 Total time: 0m 11s
+MergeThreshold 	8 	 MinSize 	65 Avg: 85.11 
+F1-score: 	86.65% 	Time in seconds 	10.645568 	 Total time: 0m 11s
+F1-score: 	84.05% 	Time in seconds 	8.975959 	 Total time: 0m 9s
+F1-score: 	83.29% 	Time in seconds 	8.171565 	 Total time: 0m 8s
+F1-score: 	88.28% 	Time in seconds 	11.342071 	 Total time: 0m 11s
+F1-score: 	84.74% 	Time in seconds 	8.821366 	 Total time: 0m 9s
+MergeThreshold 	8 	 MinSize 	70 Avg: 85.40 
+F1-score: 	86.65% 	Time in seconds 	10.645240 	 Total time: 0m 11s
+F1-score: 	84.05% 	Time in seconds 	8.969346 	 Total time: 0m 9s
+F1-score: 	83.29% 	Time in seconds 	8.224345 	 Total time: 0m 8s
+F1-score: 	88.28% 	Time in seconds 	11.431580 	 Total time: 0m 11s
+F1-score: 	84.74% 	Time in seconds 	8.843990 	 Total time: 0m 9s
+MergeThreshold 	8 	 MinSize 	75 Avg: 85.40 
+F1-score: 	87.00% 	Time in seconds 	8.857984 	 Total time: 0m 9s
+F1-score: 	84.22% 	Time in seconds 	7.567261 	 Total time: 0m 8s
+F1-score: 	83.88% 	Time in seconds 	6.874576 	 Total time: 0m 7s
+F1-score: 	88.94% 	Time in seconds 	9.492045 	 Total time: 0m 9s
+F1-score: 	85.13% 	Time in seconds 	7.349923 	 Total time: 0m 7s
+MergeThreshold 	8 	 MinSize 	80 Avg: 85.83 
+F1-score: 	87.53% 	Time in seconds 	7.397427 	 Total time: 0m 7s
+F1-score: 	84.78% 	Time in seconds 	6.314370 	 Total time: 0m 6s
+F1-score: 	84.22% 	Time in seconds 	5.657296 	 Total time: 0m 6s
+F1-score: 	90.12% 	Time in seconds 	8.071250 	 Total time: 0m 8s
+F1-score: 	85.99% 	Time in seconds 	6.147924 	 Total time: 0m 6s
+MergeThreshold 	8 	 MinSize 	85 Avg: 86.53 
+F1-score: 	87.53% 	Time in seconds 	7.473417 	 Total time: 0m 7s
+F1-score: 	84.78% 	Time in seconds 	6.274157 	 Total time: 0m 6s
+F1-score: 	84.22% 	Time in seconds 	5.745164 	 Total time: 0m 6s
+F1-score: 	90.12% 	Time in seconds 	7.877582 	 Total time: 0m 8s
+F1-score: 	85.99% 	Time in seconds 	6.067545 	 Total time: 0m 6s
+MergeThreshold 	8 	 MinSize 	90 Avg: 86.53 
+F1-score: 	87.25% 	Time in seconds 	6.184823 	 Total time: 0m 6s
+F1-score: 	84.75% 	Time in seconds 	5.240505 	 Total time: 0m 5s
+F1-score: 	83.67% 	Time in seconds 	4.730194 	 Total time: 0m 5s
+F1-score: 	90.39% 	Time in seconds 	6.634051 	 Total time: 0m 7s
+F1-score: 	86.33% 	Time in seconds 	5.167018 	 Total time: 0m 5s
+MergeThreshold 	8 	 MinSize 	95 Avg: 86.48 
+F1-score: 	87.25% 	Time in seconds 	6.222771 	 Total time: 0m 6s
+F1-score: 	84.75% 	Time in seconds 	5.271824 	 Total time: 0m 5s
+F1-score: 	83.67% 	Time in seconds 	4.791972 	 Total time: 0m 5s
+F1-score: 	90.39% 	Time in seconds 	6.641617 	 Total time: 0m 7s
+F1-score: 	86.33% 	Time in seconds 	5.128894 	 Total time: 0m 5s
+MergeThreshold 	8 	 MinSize 	100 Avg: 86.48 
+F1-score: 	84.86% 	Time in seconds 	5.170635 	 Total time: 0m 5s
+F1-score: 	82.62% 	Time in seconds 	4.471986 	 Total time: 0m 4s
+F1-score: 	79.94% 	Time in seconds 	3.982772 	 Total time: 0m 4s
+F1-score: 	88.60% 	Time in seconds 	5.631270 	 Total time: 0m 6s
+F1-score: 	84.25% 	Time in seconds 	4.388468 	 Total time: 0m 4s
+MergeThreshold 	8 	 MinSize 	105 Avg: 84.05 
+F1-score: 	84.86% 	Time in seconds 	5.191334 	 Total time: 0m 5s
+F1-score: 	82.62% 	Time in seconds 	4.411230 	 Total time: 0m 4s
+F1-score: 	79.94% 	Time in seconds 	4.014867 	 Total time: 0m 4s
+F1-score: 	88.60% 	Time in seconds 	5.632172 	 Total time: 0m 6s
+F1-score: 	84.25% 	Time in seconds 	4.301111 	 Total time: 0m 4s
+MergeThreshold 	8 	 MinSize 	110 Avg: 84.05 
+F1-score: 	82.15% 	Time in seconds 	4.404666 	 Total time: 0m 4s
+F1-score: 	80.85% 	Time in seconds 	3.722438 	 Total time: 0m 4s
+F1-score: 	78.03% 	Time in seconds 	3.370711 	 Total time: 0m 3s
+F1-score: 	86.17% 	Time in seconds 	4.853332 	 Total time: 0m 5s
+F1-score: 	81.23% 	Time in seconds 	3.699283 	 Total time: 0m 4s
+MergeThreshold 	8 	 MinSize 	115 Avg: 81.69 
+F1-score: 	82.15% 	Time in seconds 	4.385732 	 Total time: 0m 4s
+F1-score: 	80.85% 	Time in seconds 	3.765898 	 Total time: 0m 4s
+F1-score: 	78.03% 	Time in seconds 	3.346077 	 Total time: 0m 3s
+F1-score: 	86.17% 	Time in seconds 	4.768360 	 Total time: 0m 5s
+F1-score: 	81.23% 	Time in seconds 	3.633504 	 Total time: 0m 4s
+MergeThreshold 	8 	 MinSize 	120 Avg: 81.69 
+F1-score: 	77.16% 	Time in seconds 	3.694076 	 Total time: 0m 4s
+F1-score: 	77.89% 	Time in seconds 	3.162310 	 Total time: 0m 3s
+F1-score: 	74.34% 	Time in seconds 	2.852937 	 Total time: 0m 3s
+F1-score: 	84.79% 	Time in seconds 	4.039118 	 Total time: 0m 4s
+F1-score: 	78.52% 	Time in seconds 	3.048306 	 Total time: 0m 3s
+MergeThreshold 	8 	 MinSize 	125 Avg: 78.54 
+F1-score: 	77.16% 	Time in seconds 	3.745748 	 Total time: 0m 4s
+F1-score: 	77.89% 	Time in seconds 	3.175549 	 Total time: 0m 3s
+F1-score: 	74.34% 	Time in seconds 	2.865878 	 Total time: 0m 3s
+F1-score: 	84.79% 	Time in seconds 	4.028516 	 Total time: 0m 4s
+F1-score: 	78.52% 	Time in seconds 	3.074147 	 Total time: 0m 3s
+MergeThreshold 	8 	 MinSize 	130 Avg: 78.54 
+F1-score: 	77.16% 	Time in seconds 	3.709747 	 Total time: 0m 4s
+F1-score: 	77.89% 	Time in seconds 	3.156338 	 Total time: 0m 3s
+F1-score: 	74.34% 	Time in seconds 	2.837782 	 Total time: 0m 3s
+F1-score: 	84.79% 	Time in seconds 	4.023926 	 Total time: 0m 4s
+F1-score: 	78.52% 	Time in seconds 	3.071421 	 Total time: 0m 3s
+MergeThreshold 	8 	 MinSize 	135 Avg: 78.54 
+F1-score: 	75.24% 	Time in seconds 	3.182387 	 Total time: 0m 3s
+F1-score: 	73.94% 	Time in seconds 	2.726291 	 Total time: 0m 3s
+F1-score: 	71.82% 	Time in seconds 	2.474867 	 Total time: 0m 2s
+F1-score: 	81.34% 	Time in seconds 	3.432037 	 Total time: 0m 3s
+F1-score: 	74.47% 	Time in seconds 	2.597692 	 Total time: 0m 3s
+MergeThreshold 	8 	 MinSize 	140 Avg: 75.36 
+F1-score: 	75.24% 	Time in seconds 	3.244097 	 Total time: 0m 3s
+F1-score: 	73.94% 	Time in seconds 	2.716270 	 Total time: 0m 3s
+F1-score: 	71.82% 	Time in seconds 	2.407947 	 Total time: 0m 2s
+F1-score: 	81.34% 	Time in seconds 	3.470402 	 Total time: 0m 3s
+F1-score: 	74.47% 	Time in seconds 	2.619932 	 Total time: 0m 3s
+MergeThreshold 	8 	 MinSize 	145 Avg: 75.36 
+F1-score: 	72.73% 	Time in seconds 	2.750480 	 Total time: 0m 3s
+F1-score: 	72.01% 	Time in seconds 	2.340501 	 Total time: 0m 2s
+F1-score: 	70.58% 	Time in seconds 	2.083427 	 Total time: 0m 2s
+F1-score: 	79.18% 	Time in seconds 	3.031483 	 Total time: 0m 3s
+F1-score: 	70.79% 	Time in seconds 	2.275817 	 Total time: 0m 2s
+MergeThreshold 	8 	 MinSize 	150 Avg: 73.06 
+F1-score: 	86.69% 	Time in seconds 	66.394018 	 Total time: 1m 6s
+F1-score: 	82.02% 	Time in seconds 	56.729372 	 Total time: 1m 57s
+F1-score: 	80.11% 	Time in seconds 	51.793667 	 Total time: 1m 52s
+F1-score: 	84.05% 	Time in seconds 	71.465632 	 Total time: 1m 11s
+F1-score: 	82.95% 	Time in seconds 	54.547978 	 Total time: 1m 55s
+MergeThreshold 	10 	 MinSize 	20 Avg: 83.16 
+F1-score: 	86.69% 	Time in seconds 	47.544329 	 Total time: 1m 48s
+F1-score: 	81.71% 	Time in seconds 	40.691220 	 Total time: 1m 41s
+F1-score: 	80.12% 	Time in seconds 	37.178335 	 Total time: 1m 37s
+F1-score: 	84.05% 	Time in seconds 	50.889390 	 Total time: 1m 51s
+F1-score: 	82.95% 	Time in seconds 	39.223800 	 Total time: 1m 39s
+MergeThreshold 	10 	 MinSize 	25 Avg: 83.10 
+F1-score: 	86.69% 	Time in seconds 	39.593720 	 Total time: 1m 40s
+F1-score: 	82.11% 	Time in seconds 	33.861173 	 Total time: 1m 34s
+F1-score: 	80.60% 	Time in seconds 	30.941106 	 Total time: 1m 31s
+F1-score: 	84.05% 	Time in seconds 	42.633849 	 Total time: 1m 43s
+F1-score: 	82.95% 	Time in seconds 	32.749923 	 Total time: 1m 33s
+MergeThreshold 	10 	 MinSize 	30 Avg: 83.28 
+F1-score: 	86.69% 	Time in seconds 	36.807663 	 Total time: 1m 37s
+F1-score: 	82.11% 	Time in seconds 	31.307082 	 Total time: 1m 31s
+F1-score: 	80.28% 	Time in seconds 	29.031583 	 Total time: 0m 29s
+F1-score: 	84.05% 	Time in seconds 	39.760208 	 Total time: 1m 40s
+F1-score: 	83.28% 	Time in seconds 	30.242608 	 Total time: 1m 30s
+MergeThreshold 	10 	 MinSize 	35 Avg: 83.28 
+F1-score: 	86.69% 	Time in seconds 	32.570288 	 Total time: 1m 33s
+F1-score: 	82.11% 	Time in seconds 	27.823353 	 Total time: 0m 28s
+F1-score: 	80.09% 	Time in seconds 	25.458687 	 Total time: 0m 25s
+F1-score: 	84.80% 	Time in seconds 	34.893990 	 Total time: 1m 35s
+F1-score: 	83.67% 	Time in seconds 	26.903916 	 Total time: 0m 27s
+MergeThreshold 	10 	 MinSize 	40 Avg: 83.47 
+F1-score: 	86.69% 	Time in seconds 	27.061220 	 Total time: 0m 27s
+F1-score: 	82.44% 	Time in seconds 	23.014507 	 Total time: 0m 23s
+F1-score: 	81.04% 	Time in seconds 	20.912197 	 Total time: 0m 21s
+F1-score: 	85.20% 	Time in seconds 	28.819378 	 Total time: 0m 29s
+F1-score: 	84.01% 	Time in seconds 	22.200889 	 Total time: 0m 22s
+MergeThreshold 	10 	 MinSize 	45 Avg: 83.88 
+F1-score: 	86.69% 	Time in seconds 	22.198309 	 Total time: 0m 22s
+F1-score: 	82.80% 	Time in seconds 	18.856732 	 Total time: 0m 19s
+F1-score: 	81.39% 	Time in seconds 	17.243933 	 Total time: 0m 17s
+F1-score: 	85.96% 	Time in seconds 	24.145990 	 Total time: 0m 24s
+F1-score: 	84.70% 	Time in seconds 	18.377052 	 Total time: 0m 18s
+MergeThreshold 	10 	 MinSize 	50 Avg: 84.31 
+F1-score: 	87.08% 	Time in seconds 	18.447614 	 Total time: 0m 18s
+F1-score: 	82.80% 	Time in seconds 	15.647934 	 Total time: 0m 16s
+F1-score: 	82.49% 	Time in seconds 	14.202709 	 Total time: 0m 14s
+F1-score: 	87.07% 	Time in seconds 	19.797183 	 Total time: 0m 20s
+F1-score: 	85.15% 	Time in seconds 	15.117186 	 Total time: 0m 15s
+MergeThreshold 	10 	 MinSize 	55 Avg: 84.92 
+F1-score: 	87.13% 	Time in seconds 	15.235221 	 Total time: 0m 15s
+F1-score: 	83.21% 	Time in seconds 	12.984275 	 Total time: 0m 13s
+F1-score: 	82.91% 	Time in seconds 	11.886146 	 Total time: 0m 12s
+F1-score: 	87.08% 	Time in seconds 	16.423118 	 Total time: 0m 16s
+F1-score: 	85.23% 	Time in seconds 	12.632217 	 Total time: 0m 13s
+MergeThreshold 	10 	 MinSize 	60 Avg: 85.11 
+F1-score: 	87.26% 	Time in seconds 	12.692106 	 Total time: 0m 13s
+F1-score: 	84.34% 	Time in seconds 	10.789781 	 Total time: 0m 11s
+F1-score: 	83.12% 	Time in seconds 	9.801759 	 Total time: 0m 10s
+F1-score: 	87.16% 	Time in seconds 	13.586871 	 Total time: 0m 14s
+F1-score: 	85.32% 	Time in seconds 	10.543961 	 Total time: 0m 11s
+MergeThreshold 	10 	 MinSize 	65 Avg: 85.44 
+F1-score: 	87.44% 	Time in seconds 	10.515321 	 Total time: 0m 11s
+F1-score: 	83.99% 	Time in seconds 	8.984599 	 Total time: 0m 9s
+F1-score: 	83.46% 	Time in seconds 	8.160999 	 Total time: 0m 8s
+F1-score: 	87.30% 	Time in seconds 	11.353740 	 Total time: 0m 11s
+F1-score: 	85.55% 	Time in seconds 	8.742874 	 Total time: 0m 9s
+MergeThreshold 	10 	 MinSize 	70 Avg: 85.55 
+F1-score: 	87.44% 	Time in seconds 	10.497025 	 Total time: 0m 10s
+F1-score: 	83.99% 	Time in seconds 	8.886005 	 Total time: 0m 9s
+F1-score: 	83.46% 	Time in seconds 	8.099174 	 Total time: 0m 8s
+F1-score: 	87.30% 	Time in seconds 	11.390551 	 Total time: 0m 11s
+F1-score: 	85.55% 	Time in seconds 	8.781631 	 Total time: 0m 9s
+MergeThreshold 	10 	 MinSize 	75 Avg: 85.55 
+F1-score: 	88.15% 	Time in seconds 	8.776518 	 Total time: 0m 9s
+F1-score: 	84.11% 	Time in seconds 	7.489062 	 Total time: 0m 7s
+F1-score: 	84.05% 	Time in seconds 	6.850380 	 Total time: 0m 7s
+F1-score: 	88.37% 	Time in seconds 	9.486271 	 Total time: 0m 9s
+F1-score: 	85.94% 	Time in seconds 	7.308995 	 Total time: 0m 7s
+MergeThreshold 	10 	 MinSize 	80 Avg: 86.12 
+F1-score: 	88.32% 	Time in seconds 	7.352147 	 Total time: 0m 7s
+F1-score: 	84.94% 	Time in seconds 	6.274334 	 Total time: 0m 6s
+F1-score: 	84.39% 	Time in seconds 	5.681050 	 Total time: 0m 6s
+F1-score: 	88.84% 	Time in seconds 	7.941671 	 Total time: 0m 8s
+F1-score: 	86.82% 	Time in seconds 	6.046370 	 Total time: 0m 6s
+MergeThreshold 	10 	 MinSize 	85 Avg: 86.66 
+F1-score: 	88.32% 	Time in seconds 	7.348654 	 Total time: 0m 7s
+F1-score: 	84.94% 	Time in seconds 	6.260233 	 Total time: 0m 6s
+F1-score: 	84.39% 	Time in seconds 	5.602500 	 Total time: 0m 6s
+F1-score: 	88.84% 	Time in seconds 	7.970464 	 Total time: 0m 8s
+F1-score: 	86.82% 	Time in seconds 	6.049388 	 Total time: 0m 6s
+MergeThreshold 	10 	 MinSize 	90 Avg: 86.66 
+F1-score: 	87.37% 	Time in seconds 	6.190958 	 Total time: 0m 6s
+F1-score: 	84.54% 	Time in seconds 	5.242205 	 Total time: 0m 5s
+F1-score: 	82.32% 	Time in seconds 	4.712450 	 Total time: 0m 5s
+F1-score: 	89.41% 	Time in seconds 	6.641637 	 Total time: 0m 7s
+F1-score: 	86.08% 	Time in seconds 	5.008178 	 Total time: 0m 5s
+MergeThreshold 	10 	 MinSize 	95 Avg: 85.94 
+F1-score: 	87.37% 	Time in seconds 	6.181157 	 Total time: 0m 6s
+F1-score: 	84.54% 	Time in seconds 	5.252969 	 Total time: 0m 5s
+F1-score: 	82.32% 	Time in seconds 	4.773252 	 Total time: 0m 5s
+F1-score: 	89.41% 	Time in seconds 	6.907227 	 Total time: 0m 7s
+F1-score: 	86.08% 	Time in seconds 	5.095998 	 Total time: 0m 5s
+MergeThreshold 	10 	 MinSize 	100 Avg: 85.94 
+F1-score: 	84.93% 	Time in seconds 	5.231899 	 Total time: 0m 5s
+F1-score: 	82.87% 	Time in seconds 	4.372674 	 Total time: 0m 4s
+F1-score: 	79.41% 	Time in seconds 	3.977216 	 Total time: 0m 4s
+F1-score: 	87.24% 	Time in seconds 	5.617416 	 Total time: 0m 6s
+F1-score: 	84.22% 	Time in seconds 	4.303781 	 Total time: 0m 4s
+MergeThreshold 	10 	 MinSize 	105 Avg: 83.73 
+F1-score: 	84.93% 	Time in seconds 	5.214934 	 Total time: 0m 5s
+F1-score: 	82.87% 	Time in seconds 	4.469767 	 Total time: 0m 4s
+F1-score: 	79.41% 	Time in seconds 	4.042990 	 Total time: 0m 4s
+F1-score: 	87.24% 	Time in seconds 	5.640164 	 Total time: 0m 6s
+F1-score: 	84.22% 	Time in seconds 	4.354002 	 Total time: 0m 4s
+MergeThreshold 	10 	 MinSize 	110 Avg: 83.73 
+F1-score: 	81.25% 	Time in seconds 	4.374367 	 Total time: 0m 4s
+F1-score: 	79.77% 	Time in seconds 	3.695903 	 Total time: 0m 4s
+F1-score: 	77.02% 	Time in seconds 	3.351972 	 Total time: 0m 3s
+F1-score: 	85.25% 	Time in seconds 	4.710207 	 Total time: 0m 5s
+F1-score: 	81.39% 	Time in seconds 	3.620609 	 Total time: 0m 4s
+MergeThreshold 	10 	 MinSize 	115 Avg: 80.94 
+F1-score: 	81.25% 	Time in seconds 	4.403551 	 Total time: 0m 4s
+F1-score: 	79.77% 	Time in seconds 	3.751239 	 Total time: 0m 4s
+F1-score: 	77.02% 	Time in seconds 	3.423451 	 Total time: 0m 3s
+F1-score: 	85.25% 	Time in seconds 	4.775436 	 Total time: 0m 5s
+F1-score: 	81.39% 	Time in seconds 	3.645523 	 Total time: 0m 4s
+MergeThreshold 	10 	 MinSize 	120 Avg: 80.94 
+F1-score: 	77.32% 	Time in seconds 	3.727678 	 Total time: 0m 4s
+F1-score: 	77.76% 	Time in seconds 	3.215214 	 Total time: 0m 3s
+F1-score: 	74.32% 	Time in seconds 	2.864960 	 Total time: 0m 3s
+F1-score: 	82.62% 	Time in seconds 	4.052872 	 Total time: 0m 4s
+F1-score: 	78.04% 	Time in seconds 	3.055039 	 Total time: 0m 3s
+MergeThreshold 	10 	 MinSize 	125 Avg: 78.01 
+F1-score: 	77.32% 	Time in seconds 	3.779519 	 Total time: 0m 4s
+F1-score: 	77.76% 	Time in seconds 	3.182649 	 Total time: 0m 3s
+F1-score: 	74.32% 	Time in seconds 	2.872919 	 Total time: 0m 3s
+F1-score: 	82.62% 	Time in seconds 	4.082688 	 Total time: 0m 4s
+F1-score: 	78.04% 	Time in seconds 	3.067145 	 Total time: 0m 3s
+MergeThreshold 	10 	 MinSize 	130 Avg: 78.01 
+F1-score: 	77.32% 	Time in seconds 	3.715153 	 Total time: 0m 4s
+F1-score: 	77.76% 	Time in seconds 	3.167927 	 Total time: 0m 3s
+F1-score: 	74.32% 	Time in seconds 	2.852212 	 Total time: 0m 3s
+F1-score: 	82.62% 	Time in seconds 	4.022017 	 Total time: 0m 4s
+F1-score: 	78.04% 	Time in seconds 	3.037858 	 Total time: 0m 3s
+MergeThreshold 	10 	 MinSize 	135 Avg: 78.01 
+F1-score: 	75.22% 	Time in seconds 	3.190318 	 Total time: 0m 3s
+F1-score: 	73.47% 	Time in seconds 	2.681008 	 Total time: 0m 3s
+F1-score: 	71.73% 	Time in seconds 	2.423001 	 Total time: 0m 2s
+F1-score: 	79.02% 	Time in seconds 	3.400984 	 Total time: 0m 3s
+F1-score: 	73.31% 	Time in seconds 	2.607138 	 Total time: 0m 3s
+MergeThreshold 	10 	 MinSize 	140 Avg: 74.55 
+F1-score: 	75.22% 	Time in seconds 	3.166264 	 Total time: 0m 3s
+F1-score: 	73.47% 	Time in seconds 	2.704100 	 Total time: 0m 3s
+F1-score: 	71.73% 	Time in seconds 	2.437497 	 Total time: 0m 2s
+F1-score: 	79.02% 	Time in seconds 	3.521091 	 Total time: 0m 4s
+F1-score: 	73.31% 	Time in seconds 	2.621404 	 Total time: 0m 3s
+MergeThreshold 	10 	 MinSize 	145 Avg: 74.55 
+F1-score: 	71.50% 	Time in seconds 	2.718815 	 Total time: 0m 3s
+F1-score: 	71.51% 	Time in seconds 	2.324068 	 Total time: 0m 2s
+F1-score: 	70.04% 	Time in seconds 	2.075251 	 Total time: 0m 2s
+F1-score: 	77.60% 	Time in seconds 	2.938444 	 Total time: 0m 3s
+F1-score: 	69.99% 	Time in seconds 	2.257277 	 Total time: 0m 2s
+MergeThreshold 	10 	 MinSize 	150 Avg: 72.13 
+F1-score: 	86.52% 	Time in seconds 	65.761014 	 Total time: 1m 6s
+F1-score: 	82.04% 	Time in seconds 	56.467425 	 Total time: 1m 56s
+F1-score: 	80.43% 	Time in seconds 	51.444265 	 Total time: 1m 51s
+F1-score: 	85.31% 	Time in seconds 	70.955196 	 Total time: 1m 11s
+F1-score: 	84.00% 	Time in seconds 	54.575012 	 Total time: 1m 55s
+MergeThreshold 	12 	 MinSize 	20 Avg: 83.66 
+F1-score: 	86.52% 	Time in seconds 	47.543662 	 Total time: 1m 48s
+F1-score: 	81.73% 	Time in seconds 	40.638972 	 Total time: 1m 41s
+F1-score: 	80.44% 	Time in seconds 	37.221043 	 Total time: 1m 37s
+F1-score: 	85.31% 	Time in seconds 	50.770524 	 Total time: 1m 51s
+F1-score: 	84.00% 	Time in seconds 	39.131554 	 Total time: 1m 39s
+MergeThreshold 	12 	 MinSize 	25 Avg: 83.60 
+F1-score: 	86.52% 	Time in seconds 	39.781886 	 Total time: 1m 40s
+F1-score: 	81.73% 	Time in seconds 	34.778152 	 Total time: 1m 35s
+F1-score: 	80.30% 	Time in seconds 	31.008048 	 Total time: 1m 31s
+F1-score: 	85.31% 	Time in seconds 	42.709324 	 Total time: 1m 43s
+F1-score: 	84.00% 	Time in seconds 	33.110267 	 Total time: 1m 33s
+MergeThreshold 	12 	 MinSize 	30 Avg: 83.57 
+F1-score: 	86.52% 	Time in seconds 	36.732019 	 Total time: 1m 37s
+F1-score: 	81.73% 	Time in seconds 	31.651081 	 Total time: 1m 32s
+F1-score: 	80.09% 	Time in seconds 	28.959443 	 Total time: 0m 29s
+F1-score: 	85.31% 	Time in seconds 	39.529641 	 Total time: 1m 40s
+F1-score: 	84.00% 	Time in seconds 	30.514354 	 Total time: 1m 31s
+MergeThreshold 	12 	 MinSize 	35 Avg: 83.53 
+F1-score: 	86.52% 	Time in seconds 	32.758187 	 Total time: 1m 33s
+F1-score: 	82.06% 	Time in seconds 	27.934975 	 Total time: 0m 28s
+F1-score: 	80.10% 	Time in seconds 	25.524448 	 Total time: 0m 26s
+F1-score: 	85.72% 	Time in seconds 	35.173285 	 Total time: 1m 35s
+F1-score: 	84.00% 	Time in seconds 	27.048640 	 Total time: 0m 27s
+MergeThreshold 	12 	 MinSize 	40 Avg: 83.68 
+F1-score: 	86.52% 	Time in seconds 	26.887273 	 Total time: 0m 27s
+F1-score: 	82.39% 	Time in seconds 	22.957772 	 Total time: 0m 23s
+F1-score: 	80.42% 	Time in seconds 	21.078221 	 Total time: 0m 21s
+F1-score: 	86.07% 	Time in seconds 	28.957487 	 Total time: 0m 29s
+F1-score: 	84.34% 	Time in seconds 	22.396505 	 Total time: 0m 22s
+MergeThreshold 	12 	 MinSize 	45 Avg: 83.95 
+F1-score: 	86.52% 	Time in seconds 	22.328724 	 Total time: 0m 22s
+F1-score: 	82.42% 	Time in seconds 	19.065006 	 Total time: 0m 19s
+F1-score: 	81.09% 	Time in seconds 	17.375540 	 Total time: 0m 17s
+F1-score: 	86.42% 	Time in seconds 	24.010860 	 Total time: 0m 24s
+F1-score: 	85.10% 	Time in seconds 	18.497378 	 Total time: 0m 18s
+MergeThreshold 	12 	 MinSize 	50 Avg: 84.31 
+F1-score: 	86.55% 	Time in seconds 	18.578826 	 Total time: 0m 19s
+F1-score: 	82.82% 	Time in seconds 	15.689092 	 Total time: 0m 16s
+F1-score: 	81.86% 	Time in seconds 	14.361082 	 Total time: 0m 14s
+F1-score: 	86.83% 	Time in seconds 	20.158051 	 Total time: 0m 20s
+F1-score: 	85.14% 	Time in seconds 	15.302623 	 Total time: 0m 15s
+MergeThreshold 	12 	 MinSize 	55 Avg: 84.64 
+F1-score: 	86.61% 	Time in seconds 	15.364282 	 Total time: 0m 15s
+F1-score: 	83.23% 	Time in seconds 	13.112358 	 Total time: 0m 13s
+F1-score: 	81.96% 	Time in seconds 	11.896590 	 Total time: 0m 12s
+F1-score: 	86.85% 	Time in seconds 	16.485476 	 Total time: 0m 16s
+F1-score: 	85.22% 	Time in seconds 	12.699343 	 Total time: 0m 13s
+MergeThreshold 	12 	 MinSize 	60 Avg: 84.77 
+F1-score: 	86.74% 	Time in seconds 	12.775064 	 Total time: 0m 13s
+F1-score: 	83.95% 	Time in seconds 	10.812813 	 Total time: 0m 11s
+F1-score: 	82.16% 	Time in seconds 	10.022571 	 Total time: 0m 10s
+F1-score: 	86.92% 	Time in seconds 	13.706291 	 Total time: 0m 14s
+F1-score: 	85.31% 	Time in seconds 	10.543664 	 Total time: 0m 11s
+MergeThreshold 	12 	 MinSize 	65 Avg: 85.02 
+F1-score: 	86.91% 	Time in seconds 	10.560147 	 Total time: 0m 11s
+F1-score: 	83.88% 	Time in seconds 	9.055299 	 Total time: 0m 9s
+F1-score: 	82.51% 	Time in seconds 	8.200464 	 Total time: 0m 8s
+F1-score: 	87.89% 	Time in seconds 	11.376272 	 Total time: 0m 11s
+F1-score: 	85.54% 	Time in seconds 	8.767179 	 Total time: 0m 9s
+MergeThreshold 	12 	 MinSize 	70 Avg: 85.35 
+F1-score: 	86.91% 	Time in seconds 	10.613483 	 Total time: 0m 11s
+F1-score: 	83.88% 	Time in seconds 	9.070047 	 Total time: 0m 9s
+F1-score: 	82.51% 	Time in seconds 	8.160692 	 Total time: 0m 8s
+F1-score: 	87.89% 	Time in seconds 	11.446366 	 Total time: 0m 11s
+F1-score: 	85.54% 	Time in seconds 	8.762203 	 Total time: 0m 9s
+MergeThreshold 	12 	 MinSize 	75 Avg: 85.35 
+F1-score: 	87.62% 	Time in seconds 	8.873442 	 Total time: 0m 9s
+F1-score: 	84.00% 	Time in seconds 	7.575142 	 Total time: 0m 8s
+F1-score: 	83.10% 	Time in seconds 	6.795127 	 Total time: 0m 7s
+F1-score: 	88.55% 	Time in seconds 	9.615536 	 Total time: 0m 10s
+F1-score: 	85.93% 	Time in seconds 	7.396087 	 Total time: 0m 7s
+MergeThreshold 	12 	 MinSize 	80 Avg: 85.84 
+F1-score: 	87.80% 	Time in seconds 	7.431380 	 Total time: 0m 7s
+F1-score: 	84.91% 	Time in seconds 	6.295414 	 Total time: 0m 6s
+F1-score: 	83.75% 	Time in seconds 	5.753863 	 Total time: 0m 6s
+F1-score: 	88.96% 	Time in seconds 	8.001895 	 Total time: 0m 8s
+F1-score: 	86.41% 	Time in seconds 	6.138135 	 Total time: 0m 6s
+MergeThreshold 	12 	 MinSize 	85 Avg: 86.37 
+F1-score: 	87.80% 	Time in seconds 	7.420320 	 Total time: 0m 7s
+F1-score: 	84.91% 	Time in seconds 	6.289639 	 Total time: 0m 6s
+F1-score: 	83.75% 	Time in seconds 	5.723915 	 Total time: 0m 6s
+F1-score: 	88.96% 	Time in seconds 	8.023859 	 Total time: 0m 8s
+F1-score: 	86.41% 	Time in seconds 	6.102928 	 Total time: 0m 6s
+MergeThreshold 	12 	 MinSize 	90 Avg: 86.37 
+F1-score: 	86.43% 	Time in seconds 	6.246779 	 Total time: 0m 6s
+F1-score: 	83.73% 	Time in seconds 	5.331466 	 Total time: 0m 5s
+F1-score: 	80.97% 	Time in seconds 	4.804376 	 Total time: 0m 5s
+F1-score: 	88.73% 	Time in seconds 	6.764864 	 Total time: 0m 7s
+F1-score: 	85.18% 	Time in seconds 	5.141429 	 Total time: 0m 5s
+MergeThreshold 	12 	 MinSize 	95 Avg: 85.01 
+F1-score: 	86.43% 	Time in seconds 	6.274196 	 Total time: 0m 6s
+F1-score: 	83.73% 	Time in seconds 	5.237149 	 Total time: 0m 5s
+F1-score: 	80.97% 	Time in seconds 	4.776600 	 Total time: 0m 5s
+F1-score: 	88.73% 	Time in seconds 	6.772973 	 Total time: 0m 7s
+F1-score: 	85.18% 	Time in seconds 	5.136491 	 Total time: 0m 5s
+MergeThreshold 	12 	 MinSize 	100 Avg: 85.01 
+F1-score: 	84.42% 	Time in seconds 	5.295504 	 Total time: 0m 5s
+F1-score: 	81.68% 	Time in seconds 	4.466729 	 Total time: 0m 4s
+F1-score: 	79.16% 	Time in seconds 	4.032199 	 Total time: 0m 4s
+F1-score: 	87.08% 	Time in seconds 	5.630315 	 Total time: 0m 6s
+F1-score: 	82.97% 	Time in seconds 	4.347849 	 Total time: 0m 4s
+MergeThreshold 	12 	 MinSize 	105 Avg: 83.06 
+F1-score: 	84.42% 	Time in seconds 	5.331038 	 Total time: 0m 5s
+F1-score: 	81.68% 	Time in seconds 	4.487213 	 Total time: 0m 4s
+F1-score: 	79.16% 	Time in seconds 	3.931431 	 Total time: 0m 4s
+F1-score: 	87.08% 	Time in seconds 	5.696757 	 Total time: 0m 6s
+F1-score: 	82.97% 	Time in seconds 	4.275570 	 Total time: 0m 4s
+MergeThreshold 	12 	 MinSize 	110 Avg: 83.06 
+F1-score: 	79.54% 	Time in seconds 	4.416133 	 Total time: 0m 4s
+F1-score: 	79.34% 	Time in seconds 	3.746822 	 Total time: 0m 4s
+F1-score: 	76.25% 	Time in seconds 	3.370307 	 Total time: 0m 3s
+F1-score: 	85.04% 	Time in seconds 	4.724653 	 Total time: 0m 5s
+F1-score: 	80.51% 	Time in seconds 	3.657478 	 Total time: 0m 4s
+MergeThreshold 	12 	 MinSize 	115 Avg: 80.14 
+F1-score: 	79.54% 	Time in seconds 	4.409922 	 Total time: 0m 4s
+F1-score: 	79.34% 	Time in seconds 	3.732698 	 Total time: 0m 4s
+F1-score: 	76.25% 	Time in seconds 	3.353331 	 Total time: 0m 3s
+F1-score: 	85.04% 	Time in seconds 	4.751770 	 Total time: 0m 5s
+F1-score: 	80.51% 	Time in seconds 	3.624557 	 Total time: 0m 4s
+MergeThreshold 	12 	 MinSize 	120 Avg: 80.14 
+F1-score: 	77.89% 	Time in seconds 	3.787049 	 Total time: 0m 4s
+F1-score: 	76.03% 	Time in seconds 	3.186029 	 Total time: 0m 3s
+F1-score: 	73.21% 	Time in seconds 	2.864663 	 Total time: 0m 3s
+F1-score: 	82.49% 	Time in seconds 	4.041880 	 Total time: 0m 4s
+F1-score: 	76.02% 	Time in seconds 	3.068328 	 Total time: 0m 3s
+MergeThreshold 	12 	 MinSize 	125 Avg: 77.13 
+F1-score: 	77.89% 	Time in seconds 	3.718944 	 Total time: 0m 4s
+F1-score: 	76.03% 	Time in seconds 	3.148246 	 Total time: 0m 3s
+F1-score: 	73.21% 	Time in seconds 	2.905290 	 Total time: 0m 3s
+F1-score: 	82.49% 	Time in seconds 	4.096550 	 Total time: 0m 4s
+F1-score: 	76.02% 	Time in seconds 	3.100705 	 Total time: 0m 3s
+MergeThreshold 	12 	 MinSize 	130 Avg: 77.13 
+F1-score: 	77.89% 	Time in seconds 	3.831418 	 Total time: 0m 4s
+F1-score: 	76.03% 	Time in seconds 	3.189395 	 Total time: 0m 3s
+F1-score: 	73.21% 	Time in seconds 	2.845059 	 Total time: 0m 3s
+F1-score: 	82.49% 	Time in seconds 	4.008815 	 Total time: 0m 4s
+F1-score: 	76.02% 	Time in seconds 	3.074778 	 Total time: 0m 3s
+MergeThreshold 	12 	 MinSize 	135 Avg: 77.13 
+F1-score: 	75.22% 	Time in seconds 	3.183481 	 Total time: 0m 3s
+F1-score: 	73.10% 	Time in seconds 	2.697136 	 Total time: 0m 3s
+F1-score: 	71.88% 	Time in seconds 	2.424900 	 Total time: 0m 2s
+F1-score: 	79.44% 	Time in seconds 	3.441531 	 Total time: 0m 3s
+F1-score: 	72.76% 	Time in seconds 	2.583027 	 Total time: 0m 3s
+MergeThreshold 	12 	 MinSize 	140 Avg: 74.48 
+F1-score: 	75.22% 	Time in seconds 	3.182714 	 Total time: 0m 3s
+F1-score: 	73.10% 	Time in seconds 	2.732408 	 Total time: 0m 3s
+F1-score: 	71.88% 	Time in seconds 	2.439017 	 Total time: 0m 2s
+F1-score: 	79.44% 	Time in seconds 	3.431778 	 Total time: 0m 3s
+F1-score: 	72.76% 	Time in seconds 	2.605929 	 Total time: 0m 3s
+MergeThreshold 	12 	 MinSize 	145 Avg: 74.48 
+F1-score: 	70.66% 	Time in seconds 	2.749655 	 Total time: 0m 3s
+F1-score: 	70.80% 	Time in seconds 	2.336437 	 Total time: 0m 2s
+F1-score: 	68.99% 	Time in seconds 	2.089052 	 Total time: 0m 2s
+F1-score: 	77.36% 	Time in seconds 	2.960086 	 Total time: 0m 3s
+F1-score: 	69.72% 	Time in seconds 	2.235949 	 Total time: 0m 2s
+MergeThreshold 	12 	 MinSize 	150 Avg: 71.51 
+F1-score: 	86.92% 	Time in seconds 	66.002083 	 Total time: 1m 6s
+F1-score: 	81.30% 	Time in seconds 	56.712807 	 Total time: 1m 57s
+F1-score: 	80.64% 	Time in seconds 	51.598905 	 Total time: 1m 52s
+F1-score: 	86.53% 	Time in seconds 	71.236349 	 Total time: 1m 11s
+F1-score: 	83.29% 	Time in seconds 	54.424928 	 Total time: 1m 54s
+MergeThreshold 	14 	 MinSize 	20 Avg: 83.74 
+F1-score: 	86.92% 	Time in seconds 	47.473304 	 Total time: 1m 47s
+F1-score: 	81.30% 	Time in seconds 	40.493921 	 Total time: 1m 40s
+F1-score: 	80.65% 	Time in seconds 	37.121580 	 Total time: 1m 37s
+F1-score: 	86.53% 	Time in seconds 	50.674281 	 Total time: 1m 51s
+F1-score: 	83.29% 	Time in seconds 	39.013390 	 Total time: 1m 39s
+MergeThreshold 	14 	 MinSize 	25 Avg: 83.74 
+F1-score: 	86.92% 	Time in seconds 	39.806139 	 Total time: 1m 40s
+F1-score: 	81.30% 	Time in seconds 	33.837632 	 Total time: 1m 34s
+F1-score: 	80.44% 	Time in seconds 	30.988013 	 Total time: 1m 31s
+F1-score: 	86.53% 	Time in seconds 	42.621645 	 Total time: 1m 43s
+F1-score: 	83.29% 	Time in seconds 	32.900276 	 Total time: 1m 33s
+MergeThreshold 	14 	 MinSize 	30 Avg: 83.70 
+F1-score: 	86.92% 	Time in seconds 	36.766016 	 Total time: 1m 37s
+F1-score: 	81.30% 	Time in seconds 	31.432224 	 Total time: 1m 31s
+F1-score: 	80.44% 	Time in seconds 	29.035767 	 Total time: 0m 29s
+F1-score: 	86.53% 	Time in seconds 	39.723734 	 Total time: 1m 40s
+F1-score: 	83.29% 	Time in seconds 	30.444964 	 Total time: 1m 30s
+MergeThreshold 	14 	 MinSize 	35 Avg: 83.70 
+F1-score: 	86.92% 	Time in seconds 	32.468539 	 Total time: 1m 32s
+F1-score: 	81.30% 	Time in seconds 	27.859493 	 Total time: 0m 28s
+F1-score: 	80.76% 	Time in seconds 	25.408085 	 Total time: 0m 25s
+F1-score: 	86.53% 	Time in seconds 	34.966745 	 Total time: 1m 35s
+F1-score: 	83.29% 	Time in seconds 	26.953328 	 Total time: 0m 27s
+MergeThreshold 	14 	 MinSize 	40 Avg: 83.76 
+F1-score: 	86.92% 	Time in seconds 	26.813795 	 Total time: 0m 27s
+F1-score: 	81.64% 	Time in seconds 	22.848039 	 Total time: 0m 23s
+F1-score: 	80.77% 	Time in seconds 	20.980765 	 Total time: 0m 21s
+F1-score: 	86.89% 	Time in seconds 	28.863032 	 Total time: 0m 29s
+F1-score: 	83.63% 	Time in seconds 	22.219686 	 Total time: 0m 22s
+MergeThreshold 	14 	 MinSize 	45 Avg: 83.97 
+F1-score: 	86.92% 	Time in seconds 	22.180488 	 Total time: 0m 22s
+F1-score: 	82.07% 	Time in seconds 	18.896298 	 Total time: 0m 19s
+F1-score: 	81.84% 	Time in seconds 	17.210093 	 Total time: 0m 17s
+F1-score: 	87.66% 	Time in seconds 	23.957060 	 Total time: 0m 24s
+F1-score: 	84.38% 	Time in seconds 	18.288083 	 Total time: 0m 18s
+MergeThreshold 	14 	 MinSize 	50 Avg: 84.57 
+F1-score: 	86.95% 	Time in seconds 	18.352273 	 Total time: 0m 18s
+F1-score: 	82.07% 	Time in seconds 	15.639673 	 Total time: 0m 16s
+F1-score: 	81.89% 	Time in seconds 	14.266627 	 Total time: 0m 14s
+F1-score: 	87.66% 	Time in seconds 	19.732224 	 Total time: 0m 20s
+F1-score: 	84.43% 	Time in seconds 	15.171944 	 Total time: 0m 15s
+MergeThreshold 	14 	 MinSize 	55 Avg: 84.60 
+F1-score: 	87.01% 	Time in seconds 	15.228971 	 Total time: 0m 15s
+F1-score: 	82.07% 	Time in seconds 	13.022661 	 Total time: 0m 13s
+F1-score: 	81.99% 	Time in seconds 	11.801304 	 Total time: 0m 12s
+F1-score: 	87.67% 	Time in seconds 	16.413557 	 Total time: 0m 16s
+F1-score: 	84.51% 	Time in seconds 	12.562764 	 Total time: 0m 13s
+MergeThreshold 	14 	 MinSize 	60 Avg: 84.65 
+F1-score: 	87.50% 	Time in seconds 	12.625999 	 Total time: 0m 13s
+F1-score: 	82.52% 	Time in seconds 	10.679506 	 Total time: 0m 11s
+F1-score: 	82.20% 	Time in seconds 	9.830977 	 Total time: 0m 10s
+F1-score: 	88.16% 	Time in seconds 	13.579878 	 Total time: 0m 14s
+F1-score: 	84.60% 	Time in seconds 	10.436167 	 Total time: 0m 10s
+MergeThreshold 	14 	 MinSize 	65 Avg: 84.99 
+F1-score: 	87.68% 	Time in seconds 	10.522289 	 Total time: 0m 11s
+F1-score: 	82.45% 	Time in seconds 	8.906699 	 Total time: 0m 9s
+F1-score: 	82.54% 	Time in seconds 	8.092798 	 Total time: 0m 8s
+F1-score: 	88.30% 	Time in seconds 	11.377343 	 Total time: 0m 11s
+F1-score: 	84.83% 	Time in seconds 	8.729258 	 Total time: 0m 9s
+MergeThreshold 	14 	 MinSize 	70 Avg: 85.16 
+F1-score: 	87.68% 	Time in seconds 	10.592539 	 Total time: 0m 11s
+F1-score: 	82.45% 	Time in seconds 	9.020713 	 Total time: 0m 9s
+F1-score: 	82.54% 	Time in seconds 	8.158661 	 Total time: 0m 8s
+F1-score: 	88.30% 	Time in seconds 	11.373403 	 Total time: 0m 11s
+F1-score: 	84.83% 	Time in seconds 	8.768984 	 Total time: 0m 9s
+MergeThreshold 	14 	 MinSize 	75 Avg: 85.16 
+F1-score: 	88.03% 	Time in seconds 	8.767060 	 Total time: 0m 9s
+F1-score: 	83.38% 	Time in seconds 	7.417254 	 Total time: 0m 7s
+F1-score: 	83.13% 	Time in seconds 	6.731557 	 Total time: 0m 7s
+F1-score: 	88.96% 	Time in seconds 	9.438082 	 Total time: 0m 9s
+F1-score: 	85.22% 	Time in seconds 	7.243090 	 Total time: 0m 7s
+MergeThreshold 	14 	 MinSize 	80 Avg: 85.74 
+F1-score: 	87.85% 	Time in seconds 	7.360445 	 Total time: 0m 7s
+F1-score: 	83.11% 	Time in seconds 	6.255248 	 Total time: 0m 6s
+F1-score: 	82.72% 	Time in seconds 	5.640742 	 Total time: 0m 6s
+F1-score: 	89.38% 	Time in seconds 	7.929172 	 Total time: 0m 8s
+F1-score: 	85.33% 	Time in seconds 	6.044875 	 Total time: 0m 6s
+MergeThreshold 	14 	 MinSize 	85 Avg: 85.68 
+F1-score: 	87.85% 	Time in seconds 	7.351493 	 Total time: 0m 7s
+F1-score: 	83.11% 	Time in seconds 	6.190751 	 Total time: 0m 6s
+F1-score: 	82.72% 	Time in seconds 	5.651287 	 Total time: 0m 6s
+F1-score: 	89.38% 	Time in seconds 	7.972643 	 Total time: 0m 8s
+F1-score: 	85.33% 	Time in seconds 	6.082656 	 Total time: 0m 6s
+MergeThreshold 	14 	 MinSize 	90 Avg: 85.68 
+F1-score: 	86.10% 	Time in seconds 	6.183575 	 Total time: 0m 6s
+F1-score: 	81.91% 	Time in seconds 	5.202067 	 Total time: 0m 5s
+F1-score: 	81.00% 	Time in seconds 	4.737148 	 Total time: 0m 5s
+F1-score: 	88.36% 	Time in seconds 	6.634401 	 Total time: 0m 7s
+F1-score: 	84.46% 	Time in seconds 	5.139777 	 Total time: 0m 5s
+MergeThreshold 	14 	 MinSize 	95 Avg: 84.37 
+F1-score: 	86.10% 	Time in seconds 	6.143742 	 Total time: 0m 6s
+F1-score: 	81.91% 	Time in seconds 	5.233306 	 Total time: 0m 5s
+F1-score: 	81.00% 	Time in seconds 	4.711476 	 Total time: 0m 5s
+F1-score: 	88.36% 	Time in seconds 	6.710005 	 Total time: 0m 7s
+F1-score: 	84.46% 	Time in seconds 	5.100556 	 Total time: 0m 5s
+MergeThreshold 	14 	 MinSize 	100 Avg: 84.37 
+F1-score: 	83.32% 	Time in seconds 	5.204312 	 Total time: 0m 5s
+F1-score: 	80.23% 	Time in seconds 	4.414154 	 Total time: 0m 4s
+F1-score: 	78.84% 	Time in seconds 	3.969163 	 Total time: 0m 4s
+F1-score: 	86.71% 	Time in seconds 	6.124239 	 Total time: 0m 6s
+F1-score: 	81.22% 	Time in seconds 	4.332594 	 Total time: 0m 4s
+MergeThreshold 	14 	 MinSize 	105 Avg: 82.06 
+F1-score: 	83.32% 	Time in seconds 	5.192947 	 Total time: 0m 5s
+F1-score: 	80.23% 	Time in seconds 	4.422813 	 Total time: 0m 4s
+F1-score: 	78.84% 	Time in seconds 	4.009427 	 Total time: 0m 4s
+F1-score: 	86.71% 	Time in seconds 	5.589840 	 Total time: 0m 6s
+F1-score: 	81.22% 	Time in seconds 	4.249683 	 Total time: 0m 4s
+MergeThreshold 	14 	 MinSize 	110 Avg: 82.06 
+F1-score: 	80.28% 	Time in seconds 	4.442894 	 Total time: 0m 4s
+F1-score: 	77.57% 	Time in seconds 	3.730280 	 Total time: 0m 4s
+F1-score: 	74.99% 	Time in seconds 	3.367260 	 Total time: 0m 3s
+F1-score: 	85.04% 	Time in seconds 	4.795402 	 Total time: 0m 5s
+F1-score: 	79.14% 	Time in seconds 	3.626212 	 Total time: 0m 4s
+MergeThreshold 	14 	 MinSize 	115 Avg: 79.41 
+F1-score: 	80.28% 	Time in seconds 	4.398107 	 Total time: 0m 4s
+F1-score: 	77.57% 	Time in seconds 	3.722141 	 Total time: 0m 4s
+F1-score: 	74.99% 	Time in seconds 	3.375438 	 Total time: 0m 3s
+F1-score: 	85.04% 	Time in seconds 	4.703734 	 Total time: 0m 5s
+F1-score: 	79.14% 	Time in seconds 	3.633972 	 Total time: 0m 4s
+MergeThreshold 	14 	 MinSize 	120 Avg: 79.41 
+F1-score: 	77.45% 	Time in seconds 	3.743058 	 Total time: 0m 4s
+F1-score: 	75.42% 	Time in seconds 	3.163259 	 Total time: 0m 3s
+F1-score: 	73.31% 	Time in seconds 	2.852416 	 Total time: 0m 3s
+F1-score: 	81.30% 	Time in seconds 	4.109351 	 Total time: 0m 4s
+F1-score: 	75.05% 	Time in seconds 	3.065243 	 Total time: 0m 3s
+MergeThreshold 	14 	 MinSize 	125 Avg: 76.51 
+F1-score: 	77.45% 	Time in seconds 	3.703129 	 Total time: 0m 4s
+F1-score: 	75.42% 	Time in seconds 	3.170587 	 Total time: 0m 3s
+F1-score: 	73.31% 	Time in seconds 	2.851282 	 Total time: 0m 3s
+F1-score: 	81.30% 	Time in seconds 	4.016216 	 Total time: 0m 4s
+F1-score: 	75.05% 	Time in seconds 	3.060842 	 Total time: 0m 3s
+MergeThreshold 	14 	 MinSize 	130 Avg: 76.51 
+F1-score: 	77.45% 	Time in seconds 	3.749944 	 Total time: 0m 4s
+F1-score: 	75.42% 	Time in seconds 	3.169253 	 Total time: 0m 3s
+F1-score: 	73.31% 	Time in seconds 	2.871206 	 Total time: 0m 3s
+F1-score: 	81.30% 	Time in seconds 	4.056102 	 Total time: 0m 4s
+F1-score: 	75.05% 	Time in seconds 	3.079671 	 Total time: 0m 3s
+MergeThreshold 	14 	 MinSize 	135 Avg: 76.51 
+F1-score: 	73.47% 	Time in seconds 	3.180489 	 Total time: 0m 3s
+F1-score: 	72.78% 	Time in seconds 	2.712134 	 Total time: 0m 3s
+F1-score: 	71.78% 	Time in seconds 	2.447227 	 Total time: 0m 2s
+F1-score: 	79.12% 	Time in seconds 	3.418569 	 Total time: 0m 3s
+F1-score: 	71.40% 	Time in seconds 	2.595136 	 Total time: 0m 3s
+MergeThreshold 	14 	 MinSize 	140 Avg: 73.71 
+F1-score: 	73.47% 	Time in seconds 	3.194791 	 Total time: 0m 3s
+F1-score: 	72.78% 	Time in seconds 	2.692008 	 Total time: 0m 3s
+F1-score: 	71.78% 	Time in seconds 	2.413935 	 Total time: 0m 2s
+F1-score: 	79.12% 	Time in seconds 	3.430642 	 Total time: 0m 3s
+F1-score: 	71.40% 	Time in seconds 	2.604191 	 Total time: 0m 3s
+MergeThreshold 	14 	 MinSize 	145 Avg: 73.71 
+F1-score: 	70.74% 	Time in seconds 	2.718190 	 Total time: 0m 3s
+F1-score: 	68.99% 	Time in seconds 	2.351026 	 Total time: 0m 2s
+F1-score: 	69.18% 	Time in seconds 	2.094238 	 Total time: 0m 2s
+F1-score: 	76.42% 	Time in seconds 	2.969095 	 Total time: 0m 3s
+F1-score: 	69.43% 	Time in seconds 	2.233515 	 Total time: 0m 2s
+MergeThreshold 	14 	 MinSize 	150 Avg: 70.96 
+F1-score: 	86.55% 	Time in seconds 	65.970099 	 Total time: 1m 6s
+F1-score: 	81.02% 	Time in seconds 	56.263187 	 Total time: 1m 56s
+F1-score: 	81.26% 	Time in seconds 	51.675029 	 Total time: 1m 52s
+F1-score: 	85.16% 	Time in seconds 	70.934530 	 Total time: 1m 11s
+F1-score: 	83.04% 	Time in seconds 	54.635633 	 Total time: 1m 55s
+MergeThreshold 	16 	 MinSize 	20 Avg: 83.40 
+F1-score: 	86.55% 	Time in seconds 	47.391957 	 Total time: 1m 47s
+F1-score: 	81.02% 	Time in seconds 	40.667765 	 Total time: 1m 41s
+F1-score: 	81.26% 	Time in seconds 	37.346748 	 Total time: 1m 37s
+F1-score: 	85.16% 	Time in seconds 	50.713843 	 Total time: 1m 51s
+F1-score: 	83.04% 	Time in seconds 	39.066177 	 Total time: 1m 39s
+MergeThreshold 	16 	 MinSize 	25 Avg: 83.40 
+F1-score: 	86.55% 	Time in seconds 	39.618165 	 Total time: 1m 40s
+F1-score: 	81.02% 	Time in seconds 	33.760651 	 Total time: 1m 34s
+F1-score: 	81.26% 	Time in seconds 	31.172740 	 Total time: 1m 31s
+F1-score: 	85.16% 	Time in seconds 	42.928706 	 Total time: 1m 43s
+F1-score: 	83.04% 	Time in seconds 	32.759475 	 Total time: 1m 33s
+MergeThreshold 	16 	 MinSize 	30 Avg: 83.40 
+F1-score: 	86.55% 	Time in seconds 	36.871215 	 Total time: 1m 37s
+F1-score: 	81.02% 	Time in seconds 	31.362028 	 Total time: 1m 31s
+F1-score: 	81.26% 	Time in seconds 	28.811572 	 Total time: 0m 29s
+F1-score: 	85.16% 	Time in seconds 	39.601414 	 Total time: 1m 40s
+F1-score: 	83.04% 	Time in seconds 	30.497233 	 Total time: 1m 30s
+MergeThreshold 	16 	 MinSize 	35 Avg: 83.40 
+F1-score: 	86.55% 	Time in seconds 	32.455977 	 Total time: 1m 32s
+F1-score: 	81.02% 	Time in seconds 	27.714380 	 Total time: 0m 28s
+F1-score: 	81.59% 	Time in seconds 	25.424846 	 Total time: 0m 25s
+F1-score: 	85.16% 	Time in seconds 	35.015138 	 Total time: 1m 35s
+F1-score: 	83.04% 	Time in seconds 	26.770973 	 Total time: 0m 27s
+MergeThreshold 	16 	 MinSize 	40 Avg: 83.47 
+F1-score: 	86.55% 	Time in seconds 	26.816146 	 Total time: 0m 27s
+F1-score: 	81.43% 	Time in seconds 	22.928764 	 Total time: 0m 23s
+F1-score: 	81.60% 	Time in seconds 	20.887459 	 Total time: 0m 21s
+F1-score: 	85.16% 	Time in seconds 	30.293645 	 Total time: 1m 30s
+F1-score: 	83.70% 	Time in seconds 	23.817506 	 Total time: 0m 24s
+MergeThreshold 	16 	 MinSize 	45 Avg: 83.69 
+F1-score: 	86.55% 	Time in seconds 	22.553353 	 Total time: 0m 23s
+F1-score: 	81.45% 	Time in seconds 	19.069520 	 Total time: 0m 19s
+F1-score: 	82.35% 	Time in seconds 	17.468885 	 Total time: 0m 17s
+F1-score: 	85.93% 	Time in seconds 	24.032591 	 Total time: 0m 24s
+F1-score: 	84.12% 	Time in seconds 	18.421915 	 Total time: 0m 18s
+MergeThreshold 	16 	 MinSize 	50 Avg: 84.08 
+F1-score: 	86.58% 	Time in seconds 	18.482076 	 Total time: 0m 18s
+F1-score: 	81.45% 	Time in seconds 	15.721695 	 Total time: 0m 16s
+F1-score: 	82.40% 	Time in seconds 	14.461029 	 Total time: 0m 14s
+F1-score: 	85.93% 	Time in seconds 	19.916208 	 Total time: 0m 20s
+F1-score: 	84.17% 	Time in seconds 	15.270789 	 Total time: 0m 15s
+MergeThreshold 	16 	 MinSize 	55 Avg: 84.11 
+F1-score: 	86.64% 	Time in seconds 	15.240179 	 Total time: 0m 15s
+F1-score: 	81.45% 	Time in seconds 	12.949946 	 Total time: 0m 13s
+F1-score: 	82.50% 	Time in seconds 	11.836522 	 Total time: 0m 12s
+F1-score: 	85.94% 	Time in seconds 	16.390951 	 Total time: 0m 16s
+F1-score: 	84.25% 	Time in seconds 	12.587731 	 Total time: 0m 13s
+MergeThreshold 	16 	 MinSize 	60 Avg: 84.15 
+F1-score: 	86.77% 	Time in seconds 	12.773832 	 Total time: 0m 13s
+F1-score: 	81.90% 	Time in seconds 	10.834931 	 Total time: 0m 11s
+F1-score: 	82.71% 	Time in seconds 	9.919495 	 Total time: 0m 10s
+F1-score: 	86.02% 	Time in seconds 	13.878738 	 Total time: 0m 14s
+F1-score: 	84.34% 	Time in seconds 	10.588903 	 Total time: 0m 11s
+MergeThreshold 	16 	 MinSize 	65 Avg: 84.35 
+F1-score: 	86.94% 	Time in seconds 	10.618898 	 Total time: 0m 11s
+F1-score: 	81.54% 	Time in seconds 	9.011151 	 Total time: 0m 9s
+F1-score: 	83.05% 	Time in seconds 	8.220383 	 Total time: 0m 8s
+F1-score: 	86.57% 	Time in seconds 	11.460476 	 Total time: 0m 11s
+F1-score: 	84.57% 	Time in seconds 	8.866255 	 Total time: 0m 9s
+MergeThreshold 	16 	 MinSize 	70 Avg: 84.53 
+F1-score: 	86.94% 	Time in seconds 	10.581875 	 Total time: 0m 11s
+F1-score: 	81.54% 	Time in seconds 	9.081708 	 Total time: 0m 9s
+F1-score: 	83.05% 	Time in seconds 	8.199936 	 Total time: 0m 8s
+F1-score: 	86.57% 	Time in seconds 	11.599987 	 Total time: 0m 12s
+F1-score: 	84.57% 	Time in seconds 	8.807921 	 Total time: 0m 9s
+MergeThreshold 	16 	 MinSize 	75 Avg: 84.53 
+F1-score: 	87.05% 	Time in seconds 	8.908350 	 Total time: 0m 9s
+F1-score: 	81.93% 	Time in seconds 	7.518789 	 Total time: 0m 8s
+F1-score: 	83.64% 	Time in seconds 	6.769753 	 Total time: 0m 7s
+F1-score: 	86.82% 	Time in seconds 	9.550027 	 Total time: 0m 10s
+F1-score: 	84.96% 	Time in seconds 	7.351353 	 Total time: 0m 7s
+MergeThreshold 	16 	 MinSize 	80 Avg: 84.88 
+F1-score: 	87.12% 	Time in seconds 	7.394878 	 Total time: 0m 7s
+F1-score: 	82.03% 	Time in seconds 	6.268529 	 Total time: 0m 6s
+F1-score: 	83.23% 	Time in seconds 	5.759330 	 Total time: 0m 6s
+F1-score: 	87.24% 	Time in seconds 	7.953278 	 Total time: 0m 8s
+F1-score: 	84.70% 	Time in seconds 	6.124553 	 Total time: 0m 6s
+MergeThreshold 	16 	 MinSize 	85 Avg: 84.86 
+F1-score: 	87.12% 	Time in seconds 	7.386686 	 Total time: 0m 7s
+F1-score: 	82.03% 	Time in seconds 	6.245980 	 Total time: 0m 6s
+F1-score: 	83.23% 	Time in seconds 	5.632044 	 Total time: 0m 6s
+F1-score: 	87.24% 	Time in seconds 	8.060515 	 Total time: 0m 8s
+F1-score: 	84.70% 	Time in seconds 	6.121056 	 Total time: 0m 6s
+MergeThreshold 	16 	 MinSize 	90 Avg: 84.86 
+F1-score: 	84.99% 	Time in seconds 	6.233394 	 Total time: 0m 6s
+F1-score: 	80.81% 	Time in seconds 	5.276145 	 Total time: 0m 5s
+F1-score: 	80.97% 	Time in seconds 	4.769033 	 Total time: 0m 5s
+F1-score: 	86.22% 	Time in seconds 	6.681368 	 Total time: 0m 7s
+F1-score: 	83.83% 	Time in seconds 	5.107866 	 Total time: 0m 5s
+MergeThreshold 	16 	 MinSize 	95 Avg: 83.36 
+F1-score: 	84.99% 	Time in seconds 	6.234156 	 Total time: 0m 6s
+F1-score: 	80.81% 	Time in seconds 	5.319106 	 Total time: 0m 5s
+F1-score: 	80.97% 	Time in seconds 	4.776120 	 Total time: 0m 5s
+F1-score: 	86.22% 	Time in seconds 	6.703411 	 Total time: 0m 7s
+F1-score: 	83.83% 	Time in seconds 	5.140162 	 Total time: 0m 5s
+MergeThreshold 	16 	 MinSize 	100 Avg: 83.36 
+F1-score: 	82.20% 	Time in seconds 	5.269991 	 Total time: 0m 5s
+F1-score: 	79.20% 	Time in seconds 	4.417339 	 Total time: 0m 4s
+F1-score: 	78.26% 	Time in seconds 	3.999877 	 Total time: 0m 4s
+F1-score: 	83.89% 	Time in seconds 	5.705357 	 Total time: 0m 6s
+F1-score: 	81.33% 	Time in seconds 	4.383826 	 Total time: 0m 4s
+MergeThreshold 	16 	 MinSize 	105 Avg: 80.98 
+F1-score: 	82.20% 	Time in seconds 	5.242213 	 Total time: 0m 5s
+F1-score: 	79.20% 	Time in seconds 	4.474844 	 Total time: 0m 4s
+F1-score: 	78.26% 	Time in seconds 	4.021359 	 Total time: 0m 4s
+F1-score: 	83.89% 	Time in seconds 	5.701304 	 Total time: 0m 6s
+F1-score: 	81.33% 	Time in seconds 	4.388818 	 Total time: 0m 4s
+MergeThreshold 	16 	 MinSize 	110 Avg: 80.98 
+F1-score: 	79.28% 	Time in seconds 	4.443154 	 Total time: 0m 4s
+F1-score: 	76.51% 	Time in seconds 	3.749998 	 Total time: 0m 4s
+F1-score: 	74.60% 	Time in seconds 	3.404256 	 Total time: 0m 3s
+F1-score: 	82.25% 	Time in seconds 	4.800870 	 Total time: 0m 5s
+F1-score: 	78.91% 	Time in seconds 	3.641608 	 Total time: 0m 4s
+MergeThreshold 	16 	 MinSize 	115 Avg: 78.31 
+F1-score: 	79.28% 	Time in seconds 	4.446669 	 Total time: 0m 4s
+F1-score: 	76.51% 	Time in seconds 	3.731709 	 Total time: 0m 4s
+F1-score: 	74.60% 	Time in seconds 	3.387353 	 Total time: 0m 3s
+F1-score: 	82.25% 	Time in seconds 	4.780283 	 Total time: 0m 5s
+F1-score: 	78.91% 	Time in seconds 	3.631932 	 Total time: 0m 4s
+MergeThreshold 	16 	 MinSize 	120 Avg: 78.31 
+F1-score: 	75.84% 	Time in seconds 	3.769326 	 Total time: 0m 4s
+F1-score: 	73.14% 	Time in seconds 	3.246756 	 Total time: 0m 3s
+F1-score: 	72.34% 	Time in seconds 	2.912285 	 Total time: 0m 3s
+F1-score: 	78.85% 	Time in seconds 	4.010709 	 Total time: 0m 4s
+F1-score: 	73.69% 	Time in seconds 	3.110434 	 Total time: 0m 3s
+MergeThreshold 	16 	 MinSize 	125 Avg: 74.77 
+F1-score: 	75.84% 	Time in seconds 	3.748029 	 Total time: 0m 4s
+F1-score: 	73.14% 	Time in seconds 	3.177577 	 Total time: 0m 3s
+F1-score: 	72.34% 	Time in seconds 	2.899551 	 Total time: 0m 3s
+F1-score: 	78.85% 	Time in seconds 	4.068824 	 Total time: 0m 4s
+F1-score: 	73.69% 	Time in seconds 	3.111340 	 Total time: 0m 3s
+MergeThreshold 	16 	 MinSize 	130 Avg: 74.77 
+F1-score: 	75.84% 	Time in seconds 	3.978135 	 Total time: 0m 4s
+F1-score: 	73.14% 	Time in seconds 	3.572529 	 Total time: 0m 4s
+F1-score: 	72.34% 	Time in seconds 	2.969336 	 Total time: 0m 3s
+F1-score: 	78.85% 	Time in seconds 	4.498071 	 Total time: 0m 4s
+F1-score: 	73.69% 	Time in seconds 	3.222262 	 Total time: 0m 3s
+MergeThreshold 	16 	 MinSize 	135 Avg: 74.77 
+F1-score: 	72.14% 	Time in seconds 	3.301359 	 Total time: 0m 3s
+F1-score: 	71.32% 	Time in seconds 	2.782385 	 Total time: 0m 3s
+F1-score: 	71.36% 	Time in seconds 	2.474814 	 Total time: 0m 2s
+F1-score: 	77.27% 	Time in seconds 	3.457468 	 Total time: 0m 3s
+F1-score: 	70.94% 	Time in seconds 	2.684882 	 Total time: 0m 3s
+MergeThreshold 	16 	 MinSize 	140 Avg: 72.60 
+F1-score: 	72.14% 	Time in seconds 	3.228089 	 Total time: 0m 3s
+F1-score: 	71.32% 	Time in seconds 	2.729652 	 Total time: 0m 3s
+F1-score: 	71.36% 	Time in seconds 	2.454366 	 Total time: 0m 2s
+F1-score: 	77.27% 	Time in seconds 	3.507079 	 Total time: 0m 4s
+F1-score: 	70.94% 	Time in seconds 	3.103691 	 Total time: 0m 3s
+MergeThreshold 	16 	 MinSize 	145 Avg: 72.60 
+F1-score: 	70.17% 	Time in seconds 	2.732691 	 Total time: 0m 3s
+F1-score: 	67.62% 	Time in seconds 	2.315051 	 Total time: 0m 2s
+F1-score: 	68.69% 	Time in seconds 	2.064093 	 Total time: 0m 2s
+F1-score: 	73.86% 	Time in seconds 	2.991965 	 Total time: 0m 3s
+F1-score: 	68.81% 	Time in seconds 	2.236650 	 Total time: 0m 2s
+MergeThreshold 	16 	 MinSize 	150 Avg: 69.83 
+F1-score: 	85.40% 	Time in seconds 	66.186855 	 Total time: 1m 6s
+F1-score: 	80.70% 	Time in seconds 	56.731704 	 Total time: 1m 57s
+F1-score: 	81.12% 	Time in seconds 	51.642909 	 Total time: 1m 52s
+F1-score: 	82.84% 	Time in seconds 	71.130843 	 Total time: 1m 11s
+F1-score: 	82.68% 	Time in seconds 	54.549169 	 Total time: 1m 55s
+MergeThreshold 	18 	 MinSize 	20 Avg: 82.55 
+F1-score: 	85.40% 	Time in seconds 	47.471241 	 Total time: 1m 47s
+F1-score: 	80.70% 	Time in seconds 	40.671849 	 Total time: 1m 41s
+F1-score: 	81.12% 	Time in seconds 	37.274945 	 Total time: 1m 37s
+F1-score: 	82.84% 	Time in seconds 	50.757486 	 Total time: 1m 51s
+F1-score: 	82.68% 	Time in seconds 	39.098662 	 Total time: 1m 39s
+MergeThreshold 	18 	 MinSize 	25 Avg: 82.55 
+F1-score: 	85.40% 	Time in seconds 	39.689452 	 Total time: 1m 40s
+F1-score: 	80.70% 	Time in seconds 	33.961586 	 Total time: 1m 34s
+F1-score: 	81.12% 	Time in seconds 	31.004585 	 Total time: 1m 31s
+F1-score: 	82.84% 	Time in seconds 	42.576314 	 Total time: 1m 43s
+F1-score: 	82.68% 	Time in seconds 	32.807546 	 Total time: 1m 33s
+MergeThreshold 	18 	 MinSize 	30 Avg: 82.55 
+F1-score: 	85.40% 	Time in seconds 	36.811568 	 Total time: 1m 37s
+F1-score: 	80.70% 	Time in seconds 	31.613468 	 Total time: 1m 32s
+F1-score: 	81.44% 	Time in seconds 	28.862409 	 Total time: 0m 29s
+F1-score: 	82.84% 	Time in seconds 	39.601684 	 Total time: 1m 40s
+F1-score: 	82.68% 	Time in seconds 	30.589911 	 Total time: 1m 31s
+MergeThreshold 	18 	 MinSize 	35 Avg: 82.61 
+F1-score: 	85.40% 	Time in seconds 	32.554019 	 Total time: 1m 33s
+F1-score: 	80.70% 	Time in seconds 	27.765667 	 Total time: 0m 28s
+F1-score: 	81.44% 	Time in seconds 	25.428851 	 Total time: 0m 25s
+F1-score: 	82.84% 	Time in seconds 	35.069861 	 Total time: 1m 35s
+F1-score: 	82.68% 	Time in seconds 	27.168816 	 Total time: 0m 27s
+MergeThreshold 	18 	 MinSize 	40 Avg: 82.61 
+F1-score: 	85.40% 	Time in seconds 	27.482691 	 Total time: 0m 27s
+F1-score: 	80.70% 	Time in seconds 	22.897005 	 Total time: 0m 23s
+F1-score: 	81.77% 	Time in seconds 	20.879640 	 Total time: 0m 21s
+F1-score: 	83.18% 	Time in seconds 	28.909994 	 Total time: 0m 29s
+F1-score: 	83.35% 	Time in seconds 	22.250202 	 Total time: 0m 22s
+MergeThreshold 	18 	 MinSize 	45 Avg: 82.88 
+F1-score: 	85.40% 	Time in seconds 	22.276479 	 Total time: 0m 22s
+F1-score: 	80.73% 	Time in seconds 	19.065408 	 Total time: 0m 19s
+F1-score: 	82.20% 	Time in seconds 	17.298811 	 Total time: 0m 17s
+F1-score: 	83.59% 	Time in seconds 	23.945948 	 Total time: 0m 24s
+F1-score: 	83.77% 	Time in seconds 	18.370718 	 Total time: 0m 18s
+MergeThreshold 	18 	 MinSize 	50 Avg: 83.14 
+F1-score: 	85.43% 	Time in seconds 	18.354428 	 Total time: 0m 18s
+F1-score: 	80.72% 	Time in seconds 	15.595868 	 Total time: 0m 16s
+F1-score: 	82.26% 	Time in seconds 	14.264556 	 Total time: 0m 14s
+F1-score: 	83.59% 	Time in seconds 	19.818428 	 Total time: 0m 20s
+F1-score: 	83.81% 	Time in seconds 	15.172690 	 Total time: 0m 15s
+MergeThreshold 	18 	 MinSize 	55 Avg: 83.16 
+F1-score: 	85.49% 	Time in seconds 	15.247381 	 Total time: 0m 15s
+F1-score: 	81.13% 	Time in seconds 	12.928350 	 Total time: 0m 13s
+F1-score: 	82.35% 	Time in seconds 	11.842798 	 Total time: 0m 12s
+F1-score: 	83.60% 	Time in seconds 	16.363201 	 Total time: 0m 16s
+F1-score: 	83.89% 	Time in seconds 	12.653891 	 Total time: 0m 13s
+MergeThreshold 	18 	 MinSize 	60 Avg: 83.29 
+F1-score: 	85.62% 	Time in seconds 	12.668989 	 Total time: 0m 13s
+F1-score: 	80.93% 	Time in seconds 	10.751450 	 Total time: 0m 11s
+F1-score: 	82.56% 	Time in seconds 	9.748374 	 Total time: 0m 10s
+F1-score: 	83.68% 	Time in seconds 	13.692688 	 Total time: 0m 14s
+F1-score: 	83.98% 	Time in seconds 	10.510404 	 Total time: 0m 11s
+MergeThreshold 	18 	 MinSize 	65 Avg: 83.35 
+F1-score: 	85.80% 	Time in seconds 	10.567072 	 Total time: 0m 11s
+F1-score: 	80.82% 	Time in seconds 	8.969334 	 Total time: 0m 9s
+F1-score: 	82.90% 	Time in seconds 	8.123601 	 Total time: 0m 8s
+F1-score: 	84.24% 	Time in seconds 	11.295002 	 Total time: 0m 11s
+F1-score: 	84.21% 	Time in seconds 	8.770985 	 Total time: 0m 9s
+MergeThreshold 	18 	 MinSize 	70 Avg: 83.59 
+F1-score: 	85.80% 	Time in seconds 	10.564816 	 Total time: 0m 11s
+F1-score: 	80.82% 	Time in seconds 	8.962557 	 Total time: 0m 9s
+F1-score: 	82.90% 	Time in seconds 	8.110611 	 Total time: 0m 8s
+F1-score: 	84.24% 	Time in seconds 	11.349908 	 Total time: 0m 11s
+F1-score: 	84.21% 	Time in seconds 	8.721546 	 Total time: 0m 9s
+MergeThreshold 	18 	 MinSize 	75 Avg: 83.59 
+F1-score: 	85.58% 	Time in seconds 	8.780675 	 Total time: 0m 9s
+F1-score: 	81.21% 	Time in seconds 	7.484449 	 Total time: 0m 7s
+F1-score: 	83.49% 	Time in seconds 	6.785570 	 Total time: 0m 7s
+F1-score: 	84.49% 	Time in seconds 	9.543534 	 Total time: 0m 10s
+F1-score: 	84.27% 	Time in seconds 	7.226679 	 Total time: 0m 7s
+MergeThreshold 	18 	 MinSize 	80 Avg: 83.81 
+F1-score: 	85.24% 	Time in seconds 	7.420160 	 Total time: 0m 7s
+F1-score: 	81.09% 	Time in seconds 	6.246185 	 Total time: 0m 6s
+F1-score: 	82.38% 	Time in seconds 	5.724788 	 Total time: 0m 6s
+F1-score: 	84.91% 	Time in seconds 	7.970148 	 Total time: 0m 8s
+F1-score: 	83.99% 	Time in seconds 	6.138171 	 Total time: 0m 6s
+MergeThreshold 	18 	 MinSize 	85 Avg: 83.52 
+F1-score: 	85.24% 	Time in seconds 	7.387233 	 Total time: 0m 7s
+F1-score: 	81.09% 	Time in seconds 	6.222961 	 Total time: 0m 6s
+F1-score: 	82.38% 	Time in seconds 	5.682853 	 Total time: 0m 6s
+F1-score: 	84.91% 	Time in seconds 	8.057842 	 Total time: 0m 8s
+F1-score: 	83.99% 	Time in seconds 	6.026614 	 Total time: 0m 6s
+MergeThreshold 	18 	 MinSize 	90 Avg: 83.52 
+F1-score: 	82.69% 	Time in seconds 	6.169329 	 Total time: 0m 6s
+F1-score: 	79.73% 	Time in seconds 	5.246781 	 Total time: 0m 5s
+F1-score: 	80.24% 	Time in seconds 	4.699982 	 Total time: 0m 5s
+F1-score: 	83.53% 	Time in seconds 	6.636205 	 Total time: 0m 7s
+F1-score: 	82.50% 	Time in seconds 	5.106686 	 Total time: 0m 5s
+MergeThreshold 	18 	 MinSize 	95 Avg: 81.74 
+F1-score: 	82.69% 	Time in seconds 	6.205854 	 Total time: 0m 6s
+F1-score: 	79.73% 	Time in seconds 	5.256237 	 Total time: 0m 5s
+F1-score: 	80.24% 	Time in seconds 	4.746208 	 Total time: 0m 5s
+F1-score: 	83.53% 	Time in seconds 	6.639114 	 Total time: 0m 7s
+F1-score: 	82.50% 	Time in seconds 	5.088307 	 Total time: 0m 5s
+MergeThreshold 	18 	 MinSize 	100 Avg: 81.74 
+F1-score: 	80.44% 	Time in seconds 	5.191187 	 Total time: 0m 5s
+F1-score: 	77.39% 	Time in seconds 	4.386381 	 Total time: 0m 4s
+F1-score: 	77.67% 	Time in seconds 	3.959323 	 Total time: 0m 4s
+F1-score: 	81.20% 	Time in seconds 	5.647483 	 Total time: 0m 6s
+F1-score: 	79.90% 	Time in seconds 	4.271253 	 Total time: 0m 4s
+MergeThreshold 	18 	 MinSize 	105 Avg: 79.32 
+F1-score: 	80.44% 	Time in seconds 	5.166218 	 Total time: 0m 5s
+F1-score: 	77.39% 	Time in seconds 	4.375838 	 Total time: 0m 4s
+F1-score: 	77.67% 	Time in seconds 	3.962702 	 Total time: 0m 4s
+F1-score: 	81.20% 	Time in seconds 	5.598622 	 Total time: 0m 6s
+F1-score: 	79.90% 	Time in seconds 	4.335762 	 Total time: 0m 4s
+MergeThreshold 	18 	 MinSize 	110 Avg: 79.32 
+F1-score: 	77.23% 	Time in seconds 	4.419870 	 Total time: 0m 4s
+F1-score: 	74.41% 	Time in seconds 	3.760834 	 Total time: 0m 4s
+F1-score: 	74.28% 	Time in seconds 	3.422648 	 Total time: 0m 3s
+F1-score: 	78.90% 	Time in seconds 	4.724315 	 Total time: 0m 5s
+F1-score: 	77.61% 	Time in seconds 	3.612845 	 Total time: 0m 4s
+MergeThreshold 	18 	 MinSize 	115 Avg: 76.49 
+F1-score: 	77.23% 	Time in seconds 	4.441007 	 Total time: 0m 4s
+F1-score: 	74.41% 	Time in seconds 	3.839875 	 Total time: 0m 4s
+F1-score: 	74.28% 	Time in seconds 	3.345579 	 Total time: 0m 3s
+F1-score: 	78.90% 	Time in seconds 	4.720141 	 Total time: 0m 5s
+F1-score: 	77.61% 	Time in seconds 	3.656322 	 Total time: 0m 4s
+MergeThreshold 	18 	 MinSize 	120 Avg: 76.49 
+F1-score: 	74.53% 	Time in seconds 	3.748528 	 Total time: 0m 4s
+F1-score: 	71.41% 	Time in seconds 	3.167444 	 Total time: 0m 3s
+F1-score: 	72.35% 	Time in seconds 	2.889263 	 Total time: 0m 3s
+F1-score: 	75.94% 	Time in seconds 	4.009688 	 Total time: 0m 4s
+F1-score: 	73.42% 	Time in seconds 	3.038762 	 Total time: 0m 3s
+MergeThreshold 	18 	 MinSize 	125 Avg: 73.53 
+F1-score: 	74.53% 	Time in seconds 	3.711070 	 Total time: 0m 4s
+F1-score: 	71.41% 	Time in seconds 	3.221259 	 Total time: 0m 3s
+F1-score: 	72.35% 	Time in seconds 	2.848705 	 Total time: 0m 3s
+F1-score: 	75.94% 	Time in seconds 	4.017485 	 Total time: 0m 4s
+F1-score: 	73.42% 	Time in seconds 	3.066743 	 Total time: 0m 3s
+MergeThreshold 	18 	 MinSize 	130 Avg: 73.53 
+F1-score: 	74.53% 	Time in seconds 	3.745269 	 Total time: 0m 4s
+F1-score: 	71.41% 	Time in seconds 	3.191359 	 Total time: 0m 3s
+F1-score: 	72.35% 	Time in seconds 	2.867713 	 Total time: 0m 3s
+F1-score: 	75.94% 	Time in seconds 	4.067750 	 Total time: 0m 4s
+F1-score: 	73.42% 	Time in seconds 	3.067174 	 Total time: 0m 3s
+MergeThreshold 	18 	 MinSize 	135 Avg: 73.53 
+F1-score: 	71.60% 	Time in seconds 	3.169509 	 Total time: 0m 3s
+F1-score: 	69.28% 	Time in seconds 	2.720908 	 Total time: 0m 3s
+F1-score: 	70.64% 	Time in seconds 	2.416512 	 Total time: 0m 2s
+F1-score: 	74.24% 	Time in seconds 	3.420360 	 Total time: 0m 3s
+F1-score: 	70.59% 	Time in seconds 	2.601438 	 Total time: 0m 3s
+MergeThreshold 	18 	 MinSize 	140 Avg: 71.27 
+F1-score: 	71.60% 	Time in seconds 	3.210034 	 Total time: 0m 3s
+F1-score: 	69.28% 	Time in seconds 	2.710624 	 Total time: 0m 3s
+F1-score: 	70.64% 	Time in seconds 	2.448010 	 Total time: 0m 2s
+F1-score: 	74.24% 	Time in seconds 	3.426831 	 Total time: 0m 3s
+F1-score: 	70.59% 	Time in seconds 	2.645329 	 Total time: 0m 3s
+MergeThreshold 	18 	 MinSize 	145 Avg: 71.27 
+F1-score: 	70.17% 	Time in seconds 	2.716422 	 Total time: 0m 3s
+F1-score: 	66.84% 	Time in seconds 	2.330903 	 Total time: 0m 2s
+F1-score: 	67.66% 	Time in seconds 	2.077157 	 Total time: 0m 2s
+F1-score: 	70.80% 	Time in seconds 	2.948896 	 Total time: 0m 3s
+F1-score: 	68.53% 	Time in seconds 	2.229404 	 Total time: 0m 2s
+MergeThreshold 	18 	 MinSize 	150 Avg: 68.80 
+F1-score: 	84.79% 	Time in seconds 	65.542252 	 Total time: 1m 6s
+F1-score: 	79.54% 	Time in seconds 	56.313182 	 Total time: 1m 56s
+F1-score: 	80.76% 	Time in seconds 	51.703991 	 Total time: 1m 52s
+F1-score: 	81.67% 	Time in seconds 	70.759991 	 Total time: 1m 11s
+F1-score: 	81.97% 	Time in seconds 	54.214808 	 Total time: 1m 54s
+MergeThreshold 	20 	 MinSize 	20 Avg: 81.74 
+F1-score: 	84.79% 	Time in seconds 	47.367404 	 Total time: 1m 47s
+F1-score: 	79.54% 	Time in seconds 	40.395202 	 Total time: 1m 40s
+F1-score: 	80.76% 	Time in seconds 	37.175559 	 Total time: 1m 37s
+F1-score: 	81.67% 	Time in seconds 	50.783393 	 Total time: 1m 51s
+F1-score: 	81.97% 	Time in seconds 	39.099390 	 Total time: 1m 39s
+MergeThreshold 	20 	 MinSize 	25 Avg: 81.74 
+F1-score: 	84.79% 	Time in seconds 	39.466470 	 Total time: 1m 39s
+F1-score: 	79.54% 	Time in seconds 	33.876654 	 Total time: 1m 34s
+F1-score: 	80.76% 	Time in seconds 	30.935050 	 Total time: 1m 31s
+F1-score: 	81.67% 	Time in seconds 	42.368473 	 Total time: 1m 42s
+F1-score: 	81.97% 	Time in seconds 	32.753881 	 Total time: 1m 33s
+MergeThreshold 	20 	 MinSize 	30 Avg: 81.74 
+F1-score: 	84.79% 	Time in seconds 	36.967171 	 Total time: 1m 37s
+F1-score: 	79.54% 	Time in seconds 	31.569034 	 Total time: 1m 32s
+F1-score: 	80.76% 	Time in seconds 	29.100709 	 Total time: 0m 29s
+F1-score: 	81.67% 	Time in seconds 	39.651011 	 Total time: 1m 40s
+F1-score: 	81.97% 	Time in seconds 	30.451707 	 Total time: 1m 30s
+MergeThreshold 	20 	 MinSize 	35 Avg: 81.74 
+F1-score: 	84.79% 	Time in seconds 	32.494921 	 Total time: 1m 32s
+F1-score: 	79.54% 	Time in seconds 	27.902092 	 Total time: 0m 28s
+F1-score: 	80.77% 	Time in seconds 	25.406038 	 Total time: 0m 25s
+F1-score: 	81.67% 	Time in seconds 	35.034156 	 Total time: 1m 35s
+F1-score: 	82.29% 	Time in seconds 	26.856627 	 Total time: 0m 27s
+MergeThreshold 	20 	 MinSize 	40 Avg: 81.81 
+F1-score: 	84.79% 	Time in seconds 	26.966978 	 Total time: 0m 27s
+F1-score: 	79.54% 	Time in seconds 	22.920294 	 Total time: 0m 23s
+F1-score: 	81.49% 	Time in seconds 	20.868675 	 Total time: 0m 21s
+F1-score: 	82.42% 	Time in seconds 	28.897697 	 Total time: 0m 29s
+F1-score: 	83.03% 	Time in seconds 	22.163188 	 Total time: 0m 22s
+MergeThreshold 	20 	 MinSize 	45 Avg: 82.25 
+F1-score: 	84.79% 	Time in seconds 	22.100857 	 Total time: 0m 22s
+F1-score: 	79.56% 	Time in seconds 	18.834349 	 Total time: 0m 19s
+F1-score: 	81.52% 	Time in seconds 	17.253165 	 Total time: 0m 17s
+F1-score: 	82.42% 	Time in seconds 	23.933478 	 Total time: 0m 24s
+F1-score: 	83.05% 	Time in seconds 	18.281261 	 Total time: 0m 18s
+MergeThreshold 	20 	 MinSize 	50 Avg: 82.27 
+F1-score: 	84.82% 	Time in seconds 	18.371656 	 Total time: 0m 18s
+F1-score: 	79.56% 	Time in seconds 	15.696855 	 Total time: 0m 16s
+F1-score: 	81.58% 	Time in seconds 	14.409153 	 Total time: 0m 14s
+F1-score: 	82.42% 	Time in seconds 	19.787840 	 Total time: 0m 20s
+F1-score: 	83.09% 	Time in seconds 	15.536416 	 Total time: 0m 16s
+MergeThreshold 	20 	 MinSize 	55 Avg: 82.29 
+F1-score: 	84.88% 	Time in seconds 	15.205768 	 Total time: 0m 15s
+F1-score: 	79.97% 	Time in seconds 	12.995879 	 Total time: 0m 13s
+F1-score: 	81.67% 	Time in seconds 	11.977493 	 Total time: 0m 12s
+F1-score: 	82.43% 	Time in seconds 	16.468724 	 Total time: 0m 16s
+F1-score: 	83.17% 	Time in seconds 	12.672139 	 Total time: 0m 13s
+MergeThreshold 	20 	 MinSize 	60 Avg: 82.42 
+F1-score: 	85.01% 	Time in seconds 	12.566510 	 Total time: 0m 13s
+F1-score: 	79.76% 	Time in seconds 	10.784327 	 Total time: 0m 11s
+F1-score: 	81.88% 	Time in seconds 	9.758389 	 Total time: 0m 10s
+F1-score: 	82.92% 	Time in seconds 	13.564966 	 Total time: 0m 14s
+F1-score: 	83.26% 	Time in seconds 	10.416775 	 Total time: 0m 10s
+MergeThreshold 	20 	 MinSize 	65 Avg: 82.57 
+F1-score: 	85.18% 	Time in seconds 	10.598417 	 Total time: 0m 11s
+F1-score: 	79.65% 	Time in seconds 	8.991979 	 Total time: 0m 9s
+F1-score: 	82.22% 	Time in seconds 	8.147170 	 Total time: 0m 8s
+F1-score: 	83.06% 	Time in seconds 	11.379344 	 Total time: 0m 11s
+F1-score: 	83.49% 	Time in seconds 	8.740578 	 Total time: 0m 9s
+MergeThreshold 	20 	 MinSize 	70 Avg: 82.72 
+F1-score: 	85.18% 	Time in seconds 	10.557498 	 Total time: 0m 11s
+F1-score: 	79.65% 	Time in seconds 	8.935164 	 Total time: 0m 9s
+F1-score: 	82.22% 	Time in seconds 	8.090660 	 Total time: 0m 8s
+F1-score: 	83.06% 	Time in seconds 	11.405090 	 Total time: 0m 11s
+F1-score: 	83.49% 	Time in seconds 	8.678892 	 Total time: 0m 9s
+MergeThreshold 	20 	 MinSize 	75 Avg: 82.72 
+F1-score: 	85.28% 	Time in seconds 	8.844486 	 Total time: 0m 9s
+F1-score: 	79.74% 	Time in seconds 	7.439561 	 Total time: 0m 7s
+F1-score: 	82.48% 	Time in seconds 	6.752393 	 Total time: 0m 7s
+F1-score: 	83.31% 	Time in seconds 	9.408649 	 Total time: 0m 9s
+F1-score: 	83.89% 	Time in seconds 	7.331305 	 Total time: 0m 7s
+MergeThreshold 	20 	 MinSize 	80 Avg: 82.94 
+F1-score: 	83.89% 	Time in seconds 	7.337594 	 Total time: 0m 7s
+F1-score: 	79.53% 	Time in seconds 	6.257317 	 Total time: 0m 6s
+F1-score: 	81.35% 	Time in seconds 	5.665297 	 Total time: 0m 6s
+F1-score: 	83.36% 	Time in seconds 	7.881561 	 Total time: 0m 8s
+F1-score: 	82.93% 	Time in seconds 	6.047712 	 Total time: 0m 6s
+MergeThreshold 	20 	 MinSize 	85 Avg: 82.21 
+F1-score: 	83.89% 	Time in seconds 	7.369582 	 Total time: 0m 7s
+F1-score: 	79.53% 	Time in seconds 	6.283623 	 Total time: 0m 6s
+F1-score: 	81.35% 	Time in seconds 	5.609766 	 Total time: 0m 6s
+F1-score: 	83.36% 	Time in seconds 	7.967582 	 Total time: 0m 8s
+F1-score: 	82.93% 	Time in seconds 	6.094472 	 Total time: 0m 6s
+MergeThreshold 	20 	 MinSize 	90 Avg: 82.21 
+F1-score: 	82.39% 	Time in seconds 	6.165092 	 Total time: 0m 6s
+F1-score: 	78.56% 	Time in seconds 	5.239008 	 Total time: 0m 5s
+F1-score: 	79.17% 	Time in seconds 	4.765420 	 Total time: 0m 5s
+F1-score: 	81.96% 	Time in seconds 	6.618380 	 Total time: 0m 7s
+F1-score: 	81.77% 	Time in seconds 	5.131913 	 Total time: 0m 5s
+MergeThreshold 	20 	 MinSize 	95 Avg: 80.77 
+F1-score: 	82.39% 	Time in seconds 	6.185603 	 Total time: 0m 6s
+F1-score: 	78.56% 	Time in seconds 	5.236930 	 Total time: 0m 5s
+F1-score: 	79.17% 	Time in seconds 	4.771067 	 Total time: 0m 5s
+F1-score: 	81.96% 	Time in seconds 	6.699110 	 Total time: 0m 7s
+F1-score: 	81.77% 	Time in seconds 	5.101262 	 Total time: 0m 5s
+MergeThreshold 	20 	 MinSize 	100 Avg: 80.77 
+F1-score: 	79.80% 	Time in seconds 	5.229025 	 Total time: 0m 5s
+F1-score: 	75.88% 	Time in seconds 	4.429526 	 Total time: 0m 4s
+F1-score: 	76.44% 	Time in seconds 	3.994088 	 Total time: 0m 4s
+F1-score: 	80.03% 	Time in seconds 	5.603075 	 Total time: 0m 6s
+F1-score: 	78.79% 	Time in seconds 	4.295235 	 Total time: 0m 4s
+MergeThreshold 	20 	 MinSize 	105 Avg: 78.19 
+F1-score: 	79.80% 	Time in seconds 	5.204262 	 Total time: 0m 5s
+F1-score: 	75.88% 	Time in seconds 	4.433097 	 Total time: 0m 4s
+F1-score: 	76.44% 	Time in seconds 	3.973523 	 Total time: 0m 4s
+F1-score: 	80.03% 	Time in seconds 	5.620653 	 Total time: 0m 6s
+F1-score: 	78.79% 	Time in seconds 	4.339929 	 Total time: 0m 4s
+MergeThreshold 	20 	 MinSize 	110 Avg: 78.19 
+F1-score: 	77.00% 	Time in seconds 	4.381781 	 Total time: 0m 4s
+F1-score: 	72.98% 	Time in seconds 	3.734626 	 Total time: 0m 4s
+F1-score: 	73.65% 	Time in seconds 	3.341901 	 Total time: 0m 3s
+F1-score: 	77.13% 	Time in seconds 	4.762005 	 Total time: 0m 5s
+F1-score: 	76.21% 	Time in seconds 	3.632873 	 Total time: 0m 4s
+MergeThreshold 	20 	 MinSize 	115 Avg: 75.39 
+F1-score: 	77.00% 	Time in seconds 	4.373282 	 Total time: 0m 4s
+F1-score: 	72.98% 	Time in seconds 	3.711547 	 Total time: 0m 4s
+F1-score: 	73.65% 	Time in seconds 	3.406847 	 Total time: 0m 3s
+F1-score: 	77.13% 	Time in seconds 	4.740894 	 Total time: 0m 5s
+F1-score: 	76.21% 	Time in seconds 	3.592845 	 Total time: 0m 4s
+MergeThreshold 	20 	 MinSize 	120 Avg: 75.39 
+F1-score: 	73.62% 	Time in seconds 	3.707305 	 Total time: 0m 4s
+F1-score: 	69.97% 	Time in seconds 	3.178894 	 Total time: 0m 3s
+F1-score: 	72.01% 	Time in seconds 	2.891867 	 Total time: 0m 3s
+F1-score: 	74.57% 	Time in seconds 	4.058188 	 Total time: 0m 4s
+F1-score: 	72.04% 	Time in seconds 	3.092973 	 Total time: 0m 3s
+MergeThreshold 	20 	 MinSize 	125 Avg: 72.44 
+F1-score: 	73.62% 	Time in seconds 	3.702275 	 Total time: 0m 4s
+F1-score: 	69.97% 	Time in seconds 	3.157382 	 Total time: 0m 3s
+F1-score: 	72.01% 	Time in seconds 	2.852584 	 Total time: 0m 3s
+F1-score: 	74.57% 	Time in seconds 	4.048170 	 Total time: 0m 4s
+F1-score: 	72.04% 	Time in seconds 	3.073179 	 Total time: 0m 3s
+MergeThreshold 	20 	 MinSize 	130 Avg: 72.44 
+F1-score: 	73.62% 	Time in seconds 	3.711811 	 Total time: 0m 4s
+F1-score: 	69.97% 	Time in seconds 	3.168874 	 Total time: 0m 3s
+F1-score: 	72.01% 	Time in seconds 	2.830083 	 Total time: 0m 3s
+F1-score: 	74.57% 	Time in seconds 	4.047937 	 Total time: 0m 4s
+F1-score: 	72.04% 	Time in seconds 	3.052825 	 Total time: 0m 3s
+MergeThreshold 	20 	 MinSize 	135 Avg: 72.44 
+F1-score: 	70.82% 	Time in seconds 	3.176608 	 Total time: 0m 3s
+F1-score: 	68.21% 	Time in seconds 	2.702910 	 Total time: 0m 3s
+F1-score: 	70.01% 	Time in seconds 	2.429451 	 Total time: 0m 2s
+F1-score: 	72.77% 	Time in seconds 	3.451619 	 Total time: 0m 3s
+F1-score: 	69.26% 	Time in seconds 	2.612347 	 Total time: 0m 3s
+MergeThreshold 	20 	 MinSize 	140 Avg: 70.21 
+F1-score: 	70.82% 	Time in seconds 	3.151486 	 Total time: 0m 3s
+F1-score: 	68.21% 	Time in seconds 	2.683424 	 Total time: 0m 3s
+F1-score: 	70.01% 	Time in seconds 	2.450711 	 Total time: 0m 2s
+F1-score: 	72.77% 	Time in seconds 	3.432779 	 Total time: 0m 3s
+F1-score: 	69.26% 	Time in seconds 	2.582528 	 Total time: 0m 3s
+MergeThreshold 	20 	 MinSize 	145 Avg: 70.21 
+F1-score: 	69.21% 	Time in seconds 	2.721927 	 Total time: 0m 3s
+F1-score: 	65.91% 	Time in seconds 	2.355939 	 Total time: 0m 2s
+F1-score: 	67.38% 	Time in seconds 	2.079828 	 Total time: 0m 2s
+F1-score: 	70.04% 	Time in seconds 	2.945291 	 Total time: 0m 3s
+F1-score: 	66.89% 	Time in seconds 	2.221000 	 Total time: 0m 2s
+MergeThreshold 	20 	 MinSize 	150 Avg: 67.89 
+F1-score: 	82.28% 	Time in seconds 	65.694327 	 Total time: 1m 6s
+F1-score: 	78.39% 	Time in seconds 	56.427025 	 Total time: 1m 56s
+F1-score: 	80.55% 	Time in seconds 	51.420780 	 Total time: 1m 51s
+F1-score: 	81.74% 	Time in seconds 	71.655739 	 Total time: 1m 12s
+F1-score: 	81.86% 	Time in seconds 	53.944729 	 Total time: 1m 54s
+MergeThreshold 	22 	 MinSize 	20 Avg: 80.96 
+F1-score: 	82.28% 	Time in seconds 	47.301799 	 Total time: 1m 47s
+F1-score: 	78.39% 	Time in seconds 	40.617900 	 Total time: 1m 41s
+F1-score: 	80.55% 	Time in seconds 	37.274929 	 Total time: 1m 37s
+F1-score: 	81.74% 	Time in seconds 	50.837022 	 Total time: 1m 51s
+F1-score: 	81.86% 	Time in seconds 	39.062394 	 Total time: 1m 39s
+MergeThreshold 	22 	 MinSize 	25 Avg: 80.96 
+F1-score: 	82.28% 	Time in seconds 	39.658112 	 Total time: 1m 40s
+F1-score: 	78.39% 	Time in seconds 	33.826270 	 Total time: 1m 34s
+F1-score: 	80.55% 	Time in seconds 	31.110378 	 Total time: 1m 31s
+F1-score: 	81.74% 	Time in seconds 	42.729039 	 Total time: 1m 43s
+F1-score: 	81.86% 	Time in seconds 	32.813242 	 Total time: 1m 33s
+MergeThreshold 	22 	 MinSize 	30 Avg: 80.96 
+F1-score: 	82.28% 	Time in seconds 	36.720282 	 Total time: 1m 37s
+F1-score: 	78.39% 	Time in seconds 	31.424987 	 Total time: 1m 31s
+F1-score: 	80.55% 	Time in seconds 	28.747216 	 Total time: 0m 29s
+F1-score: 	81.74% 	Time in seconds 	39.466598 	 Total time: 1m 39s
+F1-score: 	81.86% 	Time in seconds 	30.406949 	 Total time: 1m 30s
+MergeThreshold 	22 	 MinSize 	35 Avg: 80.96 
+F1-score: 	82.28% 	Time in seconds 	32.580371 	 Total time: 1m 33s
+F1-score: 	78.39% 	Time in seconds 	27.860644 	 Total time: 0m 28s
+F1-score: 	80.56% 	Time in seconds 	25.431997 	 Total time: 0m 25s
+F1-score: 	81.74% 	Time in seconds 	34.961372 	 Total time: 1m 35s
+F1-score: 	81.86% 	Time in seconds 	27.062036 	 Total time: 0m 27s
+MergeThreshold 	22 	 MinSize 	40 Avg: 80.96 
+F1-score: 	82.28% 	Time in seconds 	26.831371 	 Total time: 0m 27s
+F1-score: 	78.39% 	Time in seconds 	22.847074 	 Total time: 0m 23s
+F1-score: 	81.28% 	Time in seconds 	20.884931 	 Total time: 0m 21s
+F1-score: 	82.49% 	Time in seconds 	29.014525 	 Total time: 0m 29s
+F1-score: 	82.26% 	Time in seconds 	22.432271 	 Total time: 0m 22s
+MergeThreshold 	22 	 MinSize 	45 Avg: 81.34 
+F1-score: 	82.28% 	Time in seconds 	22.082702 	 Total time: 0m 22s
+F1-score: 	78.41% 	Time in seconds 	18.852869 	 Total time: 0m 19s
+F1-score: 	81.31% 	Time in seconds 	17.323497 	 Total time: 0m 17s
+F1-score: 	82.49% 	Time in seconds 	23.916133 	 Total time: 0m 24s
+F1-score: 	82.28% 	Time in seconds 	18.335387 	 Total time: 0m 18s
+MergeThreshold 	22 	 MinSize 	50 Avg: 81.35 
+F1-score: 	82.31% 	Time in seconds 	18.397305 	 Total time: 0m 18s
+F1-score: 	78.41% 	Time in seconds 	15.654420 	 Total time: 0m 16s
+F1-score: 	81.37% 	Time in seconds 	14.262752 	 Total time: 0m 14s
+F1-score: 	82.49% 	Time in seconds 	19.721355 	 Total time: 0m 20s
+F1-score: 	82.33% 	Time in seconds 	15.263867 	 Total time: 0m 15s
+MergeThreshold 	22 	 MinSize 	55 Avg: 81.38 
+F1-score: 	82.37% 	Time in seconds 	15.215452 	 Total time: 0m 15s
+F1-score: 	78.82% 	Time in seconds 	13.019276 	 Total time: 0m 13s
+F1-score: 	81.46% 	Time in seconds 	11.905062 	 Total time: 0m 12s
+F1-score: 	82.50% 	Time in seconds 	16.385500 	 Total time: 0m 16s
+F1-score: 	82.40% 	Time in seconds 	12.653731 	 Total time: 0m 13s
+MergeThreshold 	22 	 MinSize 	60 Avg: 81.51 
+F1-score: 	82.50% 	Time in seconds 	12.675038 	 Total time: 0m 13s
+F1-score: 	78.61% 	Time in seconds 	10.791983 	 Total time: 0m 11s
+F1-score: 	81.67% 	Time in seconds 	9.774783 	 Total time: 0m 10s
+F1-score: 	82.58% 	Time in seconds 	13.764023 	 Total time: 0m 14s
+F1-score: 	82.49% 	Time in seconds 	10.487494 	 Total time: 0m 10s
+MergeThreshold 	22 	 MinSize 	65 Avg: 81.57 
+F1-score: 	82.45% 	Time in seconds 	10.569966 	 Total time: 0m 11s
+F1-score: 	78.50% 	Time in seconds 	9.030988 	 Total time: 0m 9s
+F1-score: 	82.02% 	Time in seconds 	8.207560 	 Total time: 0m 8s
+F1-score: 	82.72% 	Time in seconds 	11.362902 	 Total time: 0m 11s
+F1-score: 	82.72% 	Time in seconds 	8.779693 	 Total time: 0m 9s
+MergeThreshold 	22 	 MinSize 	70 Avg: 81.68 
+F1-score: 	82.45% 	Time in seconds 	10.580853 	 Total time: 0m 11s
+F1-score: 	78.50% 	Time in seconds 	9.034271 	 Total time: 0m 9s
+F1-score: 	82.02% 	Time in seconds 	8.078727 	 Total time: 0m 8s
+F1-score: 	82.72% 	Time in seconds 	11.425302 	 Total time: 0m 11s
+F1-score: 	82.72% 	Time in seconds 	8.752679 	 Total time: 0m 9s
+MergeThreshold 	22 	 MinSize 	75 Avg: 81.68 
+F1-score: 	82.44% 	Time in seconds 	8.828103 	 Total time: 0m 9s
+F1-score: 	78.59% 	Time in seconds 	7.499909 	 Total time: 0m 7s
+F1-score: 	81.65% 	Time in seconds 	6.777950 	 Total time: 0m 7s
+F1-score: 	82.97% 	Time in seconds 	9.515763 	 Total time: 0m 10s
+F1-score: 	83.12% 	Time in seconds 	7.276628 	 Total time: 0m 7s
+MergeThreshold 	22 	 MinSize 	80 Avg: 81.75 
+F1-score: 	81.00% 	Time in seconds 	7.381700 	 Total time: 0m 7s
+F1-score: 	78.03% 	Time in seconds 	6.219001 	 Total time: 0m 6s
+F1-score: 	80.77% 	Time in seconds 	5.689955 	 Total time: 0m 6s
+F1-score: 	82.65% 	Time in seconds 	7.902378 	 Total time: 0m 8s
+F1-score: 	82.16% 	Time in seconds 	6.072491 	 Total time: 0m 6s
+MergeThreshold 	22 	 MinSize 	85 Avg: 80.92 
+F1-score: 	81.00% 	Time in seconds 	7.355928 	 Total time: 0m 7s
+F1-score: 	78.03% 	Time in seconds 	6.272623 	 Total time: 0m 6s
+F1-score: 	80.77% 	Time in seconds 	5.709032 	 Total time: 0m 6s
+F1-score: 	82.65% 	Time in seconds 	7.939711 	 Total time: 0m 8s
+F1-score: 	82.16% 	Time in seconds 	6.124270 	 Total time: 0m 6s
+MergeThreshold 	22 	 MinSize 	90 Avg: 80.92 
+F1-score: 	79.83% 	Time in seconds 	6.172984 	 Total time: 0m 6s
+F1-score: 	76.65% 	Time in seconds 	5.184880 	 Total time: 0m 5s
+F1-score: 	78.96% 	Time in seconds 	4.736532 	 Total time: 0m 5s
+F1-score: 	81.24% 	Time in seconds 	6.654977 	 Total time: 0m 7s
+F1-score: 	80.60% 	Time in seconds 	5.139000 	 Total time: 0m 5s
+MergeThreshold 	22 	 MinSize 	95 Avg: 79.46 
+F1-score: 	79.83% 	Time in seconds 	6.188989 	 Total time: 0m 6s
+F1-score: 	76.65% 	Time in seconds 	5.294746 	 Total time: 0m 5s
+F1-score: 	78.96% 	Time in seconds 	4.799892 	 Total time: 0m 5s
+F1-score: 	81.24% 	Time in seconds 	6.649766 	 Total time: 0m 7s
+F1-score: 	80.60% 	Time in seconds 	5.206806 	 Total time: 0m 5s
+MergeThreshold 	22 	 MinSize 	100 Avg: 79.46 
+F1-score: 	77.75% 	Time in seconds 	5.170467 	 Total time: 0m 5s
+F1-score: 	74.34% 	Time in seconds 	4.410491 	 Total time: 0m 4s
+F1-score: 	75.02% 	Time in seconds 	3.983914 	 Total time: 0m 4s
+F1-score: 	79.33% 	Time in seconds 	5.574942 	 Total time: 0m 6s
+F1-score: 	78.40% 	Time in seconds 	4.290001 	 Total time: 0m 4s
+MergeThreshold 	22 	 MinSize 	105 Avg: 76.97 
+F1-score: 	77.75% 	Time in seconds 	5.229171 	 Total time: 0m 5s
+F1-score: 	74.34% 	Time in seconds 	4.403264 	 Total time: 0m 4s
+F1-score: 	75.02% 	Time in seconds 	4.050304 	 Total time: 0m 4s
+F1-score: 	79.33% 	Time in seconds 	5.596012 	 Total time: 0m 6s
+F1-score: 	78.40% 	Time in seconds 	4.294484 	 Total time: 0m 4s
+MergeThreshold 	22 	 MinSize 	110 Avg: 76.97 
+F1-score: 	74.10% 	Time in seconds 	4.404268 	 Total time: 0m 4s
+F1-score: 	71.83% 	Time in seconds 	3.729954 	 Total time: 0m 4s
+F1-score: 	72.96% 	Time in seconds 	3.353469 	 Total time: 0m 3s
+F1-score: 	76.78% 	Time in seconds 	4.782399 	 Total time: 0m 5s
+F1-score: 	74.58% 	Time in seconds 	3.637316 	 Total time: 0m 4s
+MergeThreshold 	22 	 MinSize 	115 Avg: 74.05 
+F1-score: 	74.10% 	Time in seconds 	4.368088 	 Total time: 0m 4s
+F1-score: 	71.83% 	Time in seconds 	3.754026 	 Total time: 0m 4s
+F1-score: 	72.96% 	Time in seconds 	3.341696 	 Total time: 0m 3s
+F1-score: 	76.78% 	Time in seconds 	4.761689 	 Total time: 0m 5s
+F1-score: 	74.58% 	Time in seconds 	3.620939 	 Total time: 0m 4s
+MergeThreshold 	22 	 MinSize 	120 Avg: 74.05 
+F1-score: 	70.86% 	Time in seconds 	3.713153 	 Total time: 0m 4s
+F1-score: 	68.52% 	Time in seconds 	3.151041 	 Total time: 0m 3s
+F1-score: 	71.10% 	Time in seconds 	2.866522 	 Total time: 0m 3s
+F1-score: 	73.82% 	Time in seconds 	4.042424 	 Total time: 0m 4s
+F1-score: 	71.04% 	Time in seconds 	3.050356 	 Total time: 0m 3s
+MergeThreshold 	22 	 MinSize 	125 Avg: 71.07 
+F1-score: 	70.86% 	Time in seconds 	3.739556 	 Total time: 0m 4s
+F1-score: 	68.52% 	Time in seconds 	3.212996 	 Total time: 0m 3s
+F1-score: 	71.10% 	Time in seconds 	2.877079 	 Total time: 0m 3s
+F1-score: 	73.82% 	Time in seconds 	4.019899 	 Total time: 0m 4s
+F1-score: 	71.04% 	Time in seconds 	3.091263 	 Total time: 0m 3s
+MergeThreshold 	22 	 MinSize 	130 Avg: 71.07 
+F1-score: 	70.86% 	Time in seconds 	3.731845 	 Total time: 0m 4s
+F1-score: 	68.52% 	Time in seconds 	3.161968 	 Total time: 0m 3s
+F1-score: 	71.10% 	Time in seconds 	2.868734 	 Total time: 0m 3s
+F1-score: 	73.82% 	Time in seconds 	4.066118 	 Total time: 0m 4s
+F1-score: 	71.04% 	Time in seconds 	3.060501 	 Total time: 0m 3s
+MergeThreshold 	22 	 MinSize 	135 Avg: 71.07 
+F1-score: 	68.97% 	Time in seconds 	3.189297 	 Total time: 0m 3s
+F1-score: 	66.07% 	Time in seconds 	2.736258 	 Total time: 0m 3s
+F1-score: 	68.49% 	Time in seconds 	2.445975 	 Total time: 0m 2s
+F1-score: 	71.55% 	Time in seconds 	3.449580 	 Total time: 0m 3s
+F1-score: 	68.87% 	Time in seconds 	2.625703 	 Total time: 0m 3s
+MergeThreshold 	22 	 MinSize 	140 Avg: 68.79 
+F1-score: 	68.97% 	Time in seconds 	3.199625 	 Total time: 0m 3s
+F1-score: 	66.07% 	Time in seconds 	2.728655 	 Total time: 0m 3s
+F1-score: 	68.49% 	Time in seconds 	2.438689 	 Total time: 0m 2s
+F1-score: 	71.55% 	Time in seconds 	3.429487 	 Total time: 0m 3s
+F1-score: 	68.87% 	Time in seconds 	2.643417 	 Total time: 0m 3s
+MergeThreshold 	22 	 MinSize 	145 Avg: 68.79 
+F1-score: 	67.14% 	Time in seconds 	2.701963 	 Total time: 0m 3s
+F1-score: 	64.47% 	Time in seconds 	2.364242 	 Total time: 0m 2s
+F1-score: 	66.36% 	Time in seconds 	2.065595 	 Total time: 0m 2s
+F1-score: 	69.02% 	Time in seconds 	2.964635 	 Total time: 0m 3s
+F1-score: 	65.79% 	Time in seconds 	2.236745 	 Total time: 0m 2s
+MergeThreshold 	22 	 MinSize 	150 Avg: 66.56 
+F1-score: 	81.70% 	Time in seconds 	65.958891 	 Total time: 1m 6s
+F1-score: 	77.59% 	Time in seconds 	56.155907 	 Total time: 1m 56s
+F1-score: 	79.12% 	Time in seconds 	51.548174 	 Total time: 1m 52s
+F1-score: 	81.34% 	Time in seconds 	71.089166 	 Total time: 1m 11s
+F1-score: 	80.36% 	Time in seconds 	54.658844 	 Total time: 1m 55s
+MergeThreshold 	24 	 MinSize 	20 Avg: 80.02 
+F1-score: 	81.70% 	Time in seconds 	47.343808 	 Total time: 1m 47s
+F1-score: 	77.59% 	Time in seconds 	40.651554 	 Total time: 1m 41s
+F1-score: 	79.12% 	Time in seconds 	37.189833 	 Total time: 1m 37s
+F1-score: 	81.34% 	Time in seconds 	50.830355 	 Total time: 1m 51s
+F1-score: 	80.36% 	Time in seconds 	39.133627 	 Total time: 1m 39s
+MergeThreshold 	24 	 MinSize 	25 Avg: 80.02 
+F1-score: 	81.70% 	Time in seconds 	39.649352 	 Total time: 1m 40s
+F1-score: 	77.59% 	Time in seconds 	33.830954 	 Total time: 1m 34s
+F1-score: 	79.12% 	Time in seconds 	31.028852 	 Total time: 1m 31s
+F1-score: 	81.34% 	Time in seconds 	42.492223 	 Total time: 1m 42s
+F1-score: 	80.36% 	Time in seconds 	32.645908 	 Total time: 1m 33s
+MergeThreshold 	24 	 MinSize 	30 Avg: 80.02 
+F1-score: 	81.70% 	Time in seconds 	36.814197 	 Total time: 1m 37s
+F1-score: 	77.59% 	Time in seconds 	31.579320 	 Total time: 1m 32s
+F1-score: 	79.12% 	Time in seconds 	28.859824 	 Total time: 0m 29s
+F1-score: 	81.34% 	Time in seconds 	39.706508 	 Total time: 1m 40s
+F1-score: 	80.36% 	Time in seconds 	30.412265 	 Total time: 1m 30s
+MergeThreshold 	24 	 MinSize 	35 Avg: 80.02 
+F1-score: 	81.70% 	Time in seconds 	32.498675 	 Total time: 1m 32s
+F1-score: 	77.59% 	Time in seconds 	27.749274 	 Total time: 0m 28s
+F1-score: 	79.13% 	Time in seconds 	25.521901 	 Total time: 0m 26s
+F1-score: 	81.34% 	Time in seconds 	34.991182 	 Total time: 1m 35s
+F1-score: 	80.36% 	Time in seconds 	26.996634 	 Total time: 0m 27s
+MergeThreshold 	24 	 MinSize 	40 Avg: 80.02 
+F1-score: 	81.70% 	Time in seconds 	26.880716 	 Total time: 0m 27s
+F1-score: 	77.59% 	Time in seconds 	22.958941 	 Total time: 0m 23s
+F1-score: 	79.85% 	Time in seconds 	20.969414 	 Total time: 0m 21s
+F1-score: 	82.09% 	Time in seconds 	28.780509 	 Total time: 0m 29s
+F1-score: 	80.76% 	Time in seconds 	22.245443 	 Total time: 0m 22s
+MergeThreshold 	24 	 MinSize 	45 Avg: 80.40 
+F1-score: 	81.70% 	Time in seconds 	22.235101 	 Total time: 0m 22s
+F1-score: 	77.61% 	Time in seconds 	18.934593 	 Total time: 0m 19s
+F1-score: 	79.88% 	Time in seconds 	17.335268 	 Total time: 0m 17s
+F1-score: 	82.09% 	Time in seconds 	23.906448 	 Total time: 0m 24s
+F1-score: 	80.78% 	Time in seconds 	18.282437 	 Total time: 0m 18s
+MergeThreshold 	24 	 MinSize 	50 Avg: 80.41 
+F1-score: 	81.74% 	Time in seconds 	18.370522 	 Total time: 0m 18s
+F1-score: 	77.61% 	Time in seconds 	15.673600 	 Total time: 0m 16s
+F1-score: 	79.93% 	Time in seconds 	14.245627 	 Total time: 0m 14s
+F1-score: 	82.09% 	Time in seconds 	19.785179 	 Total time: 0m 20s
+F1-score: 	80.83% 	Time in seconds 	15.223100 	 Total time: 0m 15s
+MergeThreshold 	24 	 MinSize 	55 Avg: 80.44 
+F1-score: 	81.80% 	Time in seconds 	15.288848 	 Total time: 0m 15s
+F1-score: 	78.02% 	Time in seconds 	13.020197 	 Total time: 0m 13s
+F1-score: 	80.03% 	Time in seconds 	11.860090 	 Total time: 0m 12s
+F1-score: 	82.10% 	Time in seconds 	16.637962 	 Total time: 0m 17s
+F1-score: 	80.90% 	Time in seconds 	12.625449 	 Total time: 0m 13s
+MergeThreshold 	24 	 MinSize 	60 Avg: 80.57 
+F1-score: 	81.93% 	Time in seconds 	12.679427 	 Total time: 0m 13s
+F1-score: 	77.51% 	Time in seconds 	10.714210 	 Total time: 0m 11s
+F1-score: 	80.24% 	Time in seconds 	9.845313 	 Total time: 0m 10s
+F1-score: 	82.17% 	Time in seconds 	13.570164 	 Total time: 0m 14s
+F1-score: 	81.00% 	Time in seconds 	10.404020 	 Total time: 0m 10s
+MergeThreshold 	24 	 MinSize 	65 Avg: 80.57 
+F1-score: 	81.87% 	Time in seconds 	10.573411 	 Total time: 0m 11s
+F1-score: 	77.70% 	Time in seconds 	8.988756 	 Total time: 0m 9s
+F1-score: 	80.58% 	Time in seconds 	8.210300 	 Total time: 0m 8s
+F1-score: 	82.32% 	Time in seconds 	11.341946 	 Total time: 0m 11s
+F1-score: 	80.92% 	Time in seconds 	8.717908 	 Total time: 0m 9s
+MergeThreshold 	24 	 MinSize 	70 Avg: 80.68 
+F1-score: 	81.87% 	Time in seconds 	11.329845 	 Total time: 0m 11s
+F1-score: 	77.70% 	Time in seconds 	9.048986 	 Total time: 0m 9s
+F1-score: 	80.58% 	Time in seconds 	8.102497 	 Total time: 0m 8s
+F1-score: 	82.32% 	Time in seconds 	11.346809 	 Total time: 0m 11s
+F1-score: 	80.92% 	Time in seconds 	8.762845 	 Total time: 0m 9s
+MergeThreshold 	24 	 MinSize 	75 Avg: 80.68 
+F1-score: 	81.87% 	Time in seconds 	8.756093 	 Total time: 0m 9s
+F1-score: 	77.79% 	Time in seconds 	7.503088 	 Total time: 0m 8s
+F1-score: 	80.22% 	Time in seconds 	6.830874 	 Total time: 0m 7s
+F1-score: 	82.57% 	Time in seconds 	9.475511 	 Total time: 0m 9s
+F1-score: 	80.66% 	Time in seconds 	7.238941 	 Total time: 0m 7s
+MergeThreshold 	24 	 MinSize 	80 Avg: 80.62 
+F1-score: 	80.79% 	Time in seconds 	7.400971 	 Total time: 0m 7s
+F1-score: 	77.23% 	Time in seconds 	6.202246 	 Total time: 0m 6s
+F1-score: 	79.01% 	Time in seconds 	5.628992 	 Total time: 0m 6s
+F1-score: 	82.24% 	Time in seconds 	7.978788 	 Total time: 0m 8s
+F1-score: 	80.65% 	Time in seconds 	6.079890 	 Total time: 0m 6s
+MergeThreshold 	24 	 MinSize 	85 Avg: 79.98 
+F1-score: 	80.79% 	Time in seconds 	7.431683 	 Total time: 0m 7s
+F1-score: 	77.23% 	Time in seconds 	6.289656 	 Total time: 0m 6s
+F1-score: 	79.01% 	Time in seconds 	5.862441 	 Total time: 0m 6s
+F1-score: 	82.24% 	Time in seconds 	7.934948 	 Total time: 0m 8s
+F1-score: 	80.65% 	Time in seconds 	6.177801 	 Total time: 0m 6s
+MergeThreshold 	24 	 MinSize 	90 Avg: 79.98 
+F1-score: 	78.85% 	Time in seconds 	6.206387 	 Total time: 0m 6s
+F1-score: 	75.85% 	Time in seconds 	5.256103 	 Total time: 0m 5s
+F1-score: 	77.51% 	Time in seconds 	4.752404 	 Total time: 0m 5s
+F1-score: 	80.45% 	Time in seconds 	6.634785 	 Total time: 0m 7s
+F1-score: 	78.33% 	Time in seconds 	5.251101 	 Total time: 0m 5s
+MergeThreshold 	24 	 MinSize 	95 Avg: 78.20 
+F1-score: 	78.85% 	Time in seconds 	6.155658 	 Total time: 0m 6s
+F1-score: 	75.85% 	Time in seconds 	5.236596 	 Total time: 0m 5s
+F1-score: 	77.51% 	Time in seconds 	4.715636 	 Total time: 0m 5s
+F1-score: 	80.45% 	Time in seconds 	6.587425 	 Total time: 0m 7s
+F1-score: 	78.33% 	Time in seconds 	5.112142 	 Total time: 0m 5s
+MergeThreshold 	24 	 MinSize 	100 Avg: 78.20 
+F1-score: 	76.18% 	Time in seconds 	5.201257 	 Total time: 0m 5s
+F1-score: 	73.59% 	Time in seconds 	4.422933 	 Total time: 0m 4s
+F1-score: 	73.64% 	Time in seconds 	3.973256 	 Total time: 0m 4s
+F1-score: 	78.56% 	Time in seconds 	5.597266 	 Total time: 0m 6s
+F1-score: 	76.60% 	Time in seconds 	4.331668 	 Total time: 0m 4s
+MergeThreshold 	24 	 MinSize 	105 Avg: 75.71 
+F1-score: 	76.18% 	Time in seconds 	5.233861 	 Total time: 0m 5s
+F1-score: 	73.59% 	Time in seconds 	4.406466 	 Total time: 0m 4s
+F1-score: 	73.64% 	Time in seconds 	4.006681 	 Total time: 0m 4s
+F1-score: 	78.56% 	Time in seconds 	5.597228 	 Total time: 0m 6s
+F1-score: 	76.60% 	Time in seconds 	4.293172 	 Total time: 0m 4s
+MergeThreshold 	24 	 MinSize 	110 Avg: 75.71 
+F1-score: 	73.54% 	Time in seconds 	4.389398 	 Total time: 0m 4s
+F1-score: 	71.44% 	Time in seconds 	3.724556 	 Total time: 0m 4s
+F1-score: 	72.30% 	Time in seconds 	3.349553 	 Total time: 0m 3s
+F1-score: 	76.09% 	Time in seconds 	4.755015 	 Total time: 0m 5s
+F1-score: 	72.74% 	Time in seconds 	3.616937 	 Total time: 0m 4s
+MergeThreshold 	24 	 MinSize 	115 Avg: 73.22 
+F1-score: 	73.54% 	Time in seconds 	4.385254 	 Total time: 0m 4s
+F1-score: 	71.44% 	Time in seconds 	3.740150 	 Total time: 0m 4s
+F1-score: 	72.30% 	Time in seconds 	3.355264 	 Total time: 0m 3s
+F1-score: 	76.09% 	Time in seconds 	4.715808 	 Total time: 0m 5s
+F1-score: 	72.74% 	Time in seconds 	3.658300 	 Total time: 0m 4s
+MergeThreshold 	24 	 MinSize 	120 Avg: 73.22 
+F1-score: 	70.37% 	Time in seconds 	3.728612 	 Total time: 0m 4s
+F1-score: 	68.52% 	Time in seconds 	3.160460 	 Total time: 0m 3s
+F1-score: 	70.11% 	Time in seconds 	2.877109 	 Total time: 0m 3s
+F1-score: 	73.45% 	Time in seconds 	4.023371 	 Total time: 0m 4s
+F1-score: 	69.68% 	Time in seconds 	3.063996 	 Total time: 0m 3s
+MergeThreshold 	24 	 MinSize 	125 Avg: 70.43 
+F1-score: 	70.37% 	Time in seconds 	3.776851 	 Total time: 0m 4s
+F1-score: 	68.52% 	Time in seconds 	3.189348 	 Total time: 0m 3s
+F1-score: 	70.11% 	Time in seconds 	2.873738 	 Total time: 0m 3s
+F1-score: 	73.45% 	Time in seconds 	4.036265 	 Total time: 0m 4s
+F1-score: 	69.68% 	Time in seconds 	3.100157 	 Total time: 0m 3s
+MergeThreshold 	24 	 MinSize 	130 Avg: 70.43 
+F1-score: 	70.37% 	Time in seconds 	3.693152 	 Total time: 0m 4s
+F1-score: 	68.52% 	Time in seconds 	3.166474 	 Total time: 0m 3s
+F1-score: 	70.11% 	Time in seconds 	2.850530 	 Total time: 0m 3s
+F1-score: 	73.45% 	Time in seconds 	4.038204 	 Total time: 0m 4s
+F1-score: 	69.68% 	Time in seconds 	3.064157 	 Total time: 0m 3s
+MergeThreshold 	24 	 MinSize 	135 Avg: 70.43 
+F1-score: 	68.75% 	Time in seconds 	3.173488 	 Total time: 0m 3s
+F1-score: 	66.07% 	Time in seconds 	2.701617 	 Total time: 0m 3s
+F1-score: 	67.86% 	Time in seconds 	2.452702 	 Total time: 0m 2s
+F1-score: 	70.87% 	Time in seconds 	3.432748 	 Total time: 0m 3s
+F1-score: 	67.43% 	Time in seconds 	2.618553 	 Total time: 0m 3s
+MergeThreshold 	24 	 MinSize 	140 Avg: 68.20 
+F1-score: 	68.75% 	Time in seconds 	3.194760 	 Total time: 0m 3s
+F1-score: 	66.07% 	Time in seconds 	2.746938 	 Total time: 0m 3s
+F1-score: 	67.86% 	Time in seconds 	2.431907 	 Total time: 0m 2s
+F1-score: 	70.87% 	Time in seconds 	3.449934 	 Total time: 0m 3s
+F1-score: 	67.43% 	Time in seconds 	2.614180 	 Total time: 0m 3s
+MergeThreshold 	24 	 MinSize 	145 Avg: 68.20 
+F1-score: 	66.93% 	Time in seconds 	2.716156 	 Total time: 0m 3s
+F1-score: 	63.86% 	Time in seconds 	2.319145 	 Total time: 0m 2s
+F1-score: 	65.29% 	Time in seconds 	2.092061 	 Total time: 0m 2s
+F1-score: 	68.67% 	Time in seconds 	2.951858 	 Total time: 0m 3s
+F1-score: 	65.41% 	Time in seconds 	2.232045 	 Total time: 0m 2s
+MergeThreshold 	24 	 MinSize 	150 Avg: 66.03 
+F1-score: 	80.32% 	Time in seconds 	65.965077 	 Total time: 1m 6s
+F1-score: 	77.20% 	Time in seconds 	56.697739 	 Total time: 1m 57s
+F1-score: 	79.07% 	Time in seconds 	51.931678 	 Total time: 1m 52s
+F1-score: 	79.86% 	Time in seconds 	70.939461 	 Total time: 1m 11s
+F1-score: 	78.91% 	Time in seconds 	54.462483 	 Total time: 1m 54s
+MergeThreshold 	26 	 MinSize 	20 Avg: 79.07 
+F1-score: 	80.32% 	Time in seconds 	47.842771 	 Total time: 1m 48s
+F1-score: 	77.20% 	Time in seconds 	40.743619 	 Total time: 1m 41s
+F1-score: 	79.07% 	Time in seconds 	37.273504 	 Total time: 1m 37s
+F1-score: 	79.86% 	Time in seconds 	50.986962 	 Total time: 1m 51s
+F1-score: 	78.91% 	Time in seconds 	39.183636 	 Total time: 1m 39s
+MergeThreshold 	26 	 MinSize 	25 Avg: 79.07 
+F1-score: 	80.32% 	Time in seconds 	39.971476 	 Total time: 1m 40s
+F1-score: 	77.20% 	Time in seconds 	33.725814 	 Total time: 1m 34s
+F1-score: 	79.07% 	Time in seconds 	30.931462 	 Total time: 1m 31s
+F1-score: 	79.86% 	Time in seconds 	42.678408 	 Total time: 1m 43s
+F1-score: 	78.91% 	Time in seconds 	32.854013 	 Total time: 1m 33s
+MergeThreshold 	26 	 MinSize 	30 Avg: 79.07 
+F1-score: 	80.32% 	Time in seconds 	36.785067 	 Total time: 1m 37s
+F1-score: 	77.20% 	Time in seconds 	31.431010 	 Total time: 1m 31s
+F1-score: 	79.07% 	Time in seconds 	28.843523 	 Total time: 0m 29s
+F1-score: 	79.86% 	Time in seconds 	39.527646 	 Total time: 1m 40s
+F1-score: 	78.91% 	Time in seconds 	30.409585 	 Total time: 1m 30s
+MergeThreshold 	26 	 MinSize 	35 Avg: 79.07 
+F1-score: 	80.32% 	Time in seconds 	32.547328 	 Total time: 1m 33s
+F1-score: 	77.20% 	Time in seconds 	27.675738 	 Total time: 0m 28s
+F1-score: 	79.07% 	Time in seconds 	25.324681 	 Total time: 0m 25s
+F1-score: 	79.86% 	Time in seconds 	35.035796 	 Total time: 1m 35s
+F1-score: 	78.91% 	Time in seconds 	26.845374 	 Total time: 0m 27s
+MergeThreshold 	26 	 MinSize 	40 Avg: 79.07 
+F1-score: 	80.32% 	Time in seconds 	26.769992 	 Total time: 0m 27s
+F1-score: 	77.20% 	Time in seconds 	22.872847 	 Total time: 0m 23s
+F1-score: 	79.47% 	Time in seconds 	20.991334 	 Total time: 0m 21s
+F1-score: 	80.27% 	Time in seconds 	28.929341 	 Total time: 0m 29s
+F1-score: 	79.31% 	Time in seconds 	22.128293 	 Total time: 0m 22s
+MergeThreshold 	26 	 MinSize 	45 Avg: 79.32 
+F1-score: 	80.32% 	Time in seconds 	22.227774 	 Total time: 0m 22s
+F1-score: 	77.22% 	Time in seconds 	18.900678 	 Total time: 0m 19s
+F1-score: 	79.50% 	Time in seconds 	17.225733 	 Total time: 0m 17s
+F1-score: 	80.27% 	Time in seconds 	23.879622 	 Total time: 0m 24s
+F1-score: 	79.33% 	Time in seconds 	18.438325 	 Total time: 0m 18s
+MergeThreshold 	26 	 MinSize 	50 Avg: 79.33 
+F1-score: 	80.36% 	Time in seconds 	18.388500 	 Total time: 0m 18s
+F1-score: 	77.63% 	Time in seconds 	15.669360 	 Total time: 0m 16s
+F1-score: 	79.56% 	Time in seconds 	14.200317 	 Total time: 0m 14s
+F1-score: 	80.27% 	Time in seconds 	19.754291 	 Total time: 0m 20s
+F1-score: 	79.38% 	Time in seconds 	15.412634 	 Total time: 0m 15s
+MergeThreshold 	26 	 MinSize 	55 Avg: 79.44 
+F1-score: 	80.41% 	Time in seconds 	15.318906 	 Total time: 0m 15s
+F1-score: 	77.63% 	Time in seconds 	13.170147 	 Total time: 0m 13s
+F1-score: 	79.65% 	Time in seconds 	11.788835 	 Total time: 0m 12s
+F1-score: 	80.29% 	Time in seconds 	16.419948 	 Total time: 0m 16s
+F1-score: 	79.45% 	Time in seconds 	12.639580 	 Total time: 0m 13s
+MergeThreshold 	26 	 MinSize 	60 Avg: 79.49 
+F1-score: 	80.33% 	Time in seconds 	12.676648 	 Total time: 0m 13s
+F1-score: 	77.12% 	Time in seconds 	10.729563 	 Total time: 0m 11s
+F1-score: 	79.86% 	Time in seconds 	9.815966 	 Total time: 0m 10s
+F1-score: 	80.36% 	Time in seconds 	13.660885 	 Total time: 0m 14s
+F1-score: 	79.55% 	Time in seconds 	10.460626 	 Total time: 0m 10s
+MergeThreshold 	26 	 MinSize 	65 Avg: 79.44 
+F1-score: 	80.20% 	Time in seconds 	10.457940 	 Total time: 0m 10s
+F1-score: 	77.31% 	Time in seconds 	8.974139 	 Total time: 0m 9s
+F1-score: 	79.91% 	Time in seconds 	8.043045 	 Total time: 0m 8s
+F1-score: 	80.51% 	Time in seconds 	11.320297 	 Total time: 0m 11s
+F1-score: 	79.47% 	Time in seconds 	8.686903 	 Total time: 0m 9s
+MergeThreshold 	26 	 MinSize 	70 Avg: 79.48 
+F1-score: 	80.20% 	Time in seconds 	10.534486 	 Total time: 0m 11s
+F1-score: 	77.31% 	Time in seconds 	8.946967 	 Total time: 0m 9s
+F1-score: 	79.91% 	Time in seconds 	8.122548 	 Total time: 0m 8s
+F1-score: 	80.51% 	Time in seconds 	11.378754 	 Total time: 0m 11s
+F1-score: 	79.47% 	Time in seconds 	8.716230 	 Total time: 0m 9s
+MergeThreshold 	26 	 MinSize 	75 Avg: 79.48 
+F1-score: 	80.09% 	Time in seconds 	8.775584 	 Total time: 0m 9s
+F1-score: 	77.40% 	Time in seconds 	7.433990 	 Total time: 0m 7s
+F1-score: 	79.84% 	Time in seconds 	6.743584 	 Total time: 0m 7s
+F1-score: 	80.76% 	Time in seconds 	9.455683 	 Total time: 0m 9s
+F1-score: 	78.88% 	Time in seconds 	7.217771 	 Total time: 0m 7s
+MergeThreshold 	26 	 MinSize 	80 Avg: 79.39 
+F1-score: 	78.25% 	Time in seconds 	7.322504 	 Total time: 0m 7s
+F1-score: 	76.48% 	Time in seconds 	6.244315 	 Total time: 0m 6s
+F1-score: 	77.93% 	Time in seconds 	5.648009 	 Total time: 0m 6s
+F1-score: 	80.07% 	Time in seconds 	8.027125 	 Total time: 0m 8s
+F1-score: 	78.10% 	Time in seconds 	6.035658 	 Total time: 0m 6s
+MergeThreshold 	26 	 MinSize 	85 Avg: 78.17 
+F1-score: 	78.25% 	Time in seconds 	7.406767 	 Total time: 0m 7s
+F1-score: 	76.48% 	Time in seconds 	6.231790 	 Total time: 0m 6s
+F1-score: 	77.93% 	Time in seconds 	5.672830 	 Total time: 0m 6s
+F1-score: 	80.07% 	Time in seconds 	7.875442 	 Total time: 0m 8s
+F1-score: 	78.10% 	Time in seconds 	6.116957 	 Total time: 0m 6s
+MergeThreshold 	26 	 MinSize 	90 Avg: 78.17 
+F1-score: 	77.10% 	Time in seconds 	6.194179 	 Total time: 0m 6s
+F1-score: 	75.06% 	Time in seconds 	5.244744 	 Total time: 0m 5s
+F1-score: 	76.03% 	Time in seconds 	4.774090 	 Total time: 0m 5s
+F1-score: 	78.24% 	Time in seconds 	6.713013 	 Total time: 0m 7s
+F1-score: 	76.87% 	Time in seconds 	5.128817 	 Total time: 0m 5s
+MergeThreshold 	26 	 MinSize 	95 Avg: 76.66 
+F1-score: 	77.10% 	Time in seconds 	6.197130 	 Total time: 0m 6s
+F1-score: 	75.06% 	Time in seconds 	5.223848 	 Total time: 0m 5s
+F1-score: 	76.03% 	Time in seconds 	4.780430 	 Total time: 0m 5s
+F1-score: 	78.24% 	Time in seconds 	6.611936 	 Total time: 0m 7s
+F1-score: 	76.87% 	Time in seconds 	5.168994 	 Total time: 0m 5s
+MergeThreshold 	26 	 MinSize 	100 Avg: 76.66 
+F1-score: 	73.99% 	Time in seconds 	5.194002 	 Total time: 0m 5s
+F1-score: 	72.87% 	Time in seconds 	4.409009 	 Total time: 0m 4s
+F1-score: 	73.27% 	Time in seconds 	4.005080 	 Total time: 0m 4s
+F1-score: 	76.06% 	Time in seconds 	5.575931 	 Total time: 0m 6s
+F1-score: 	74.80% 	Time in seconds 	4.297353 	 Total time: 0m 4s
+MergeThreshold 	26 	 MinSize 	105 Avg: 74.20 
+F1-score: 	73.99% 	Time in seconds 	5.314080 	 Total time: 0m 5s
+F1-score: 	72.87% 	Time in seconds 	4.437287 	 Total time: 0m 4s
+F1-score: 	73.27% 	Time in seconds 	4.006614 	 Total time: 0m 4s
+F1-score: 	76.06% 	Time in seconds 	5.584433 	 Total time: 0m 6s
+F1-score: 	74.80% 	Time in seconds 	4.315691 	 Total time: 0m 4s
+MergeThreshold 	26 	 MinSize 	110 Avg: 74.20 
+F1-score: 	71.13% 	Time in seconds 	4.436678 	 Total time: 0m 4s
+F1-score: 	70.39% 	Time in seconds 	3.718890 	 Total time: 0m 4s
+F1-score: 	70.99% 	Time in seconds 	3.377396 	 Total time: 0m 3s
+F1-score: 	72.93% 	Time in seconds 	4.745003 	 Total time: 0m 5s
+F1-score: 	71.26% 	Time in seconds 	3.620651 	 Total time: 0m 4s
+MergeThreshold 	26 	 MinSize 	115 Avg: 71.34 
+F1-score: 	71.13% 	Time in seconds 	4.390984 	 Total time: 0m 4s
+F1-score: 	70.39% 	Time in seconds 	3.769800 	 Total time: 0m 4s
+F1-score: 	70.99% 	Time in seconds 	3.345154 	 Total time: 0m 3s
+F1-score: 	72.93% 	Time in seconds 	4.777013 	 Total time: 0m 5s
+F1-score: 	71.26% 	Time in seconds 	3.667678 	 Total time: 0m 4s
+MergeThreshold 	26 	 MinSize 	120 Avg: 71.34 
+F1-score: 	68.97% 	Time in seconds 	3.739462 	 Total time: 0m 4s
+F1-score: 	67.76% 	Time in seconds 	3.151588 	 Total time: 0m 3s
+F1-score: 	68.99% 	Time in seconds 	2.833274 	 Total time: 0m 3s
+F1-score: 	70.87% 	Time in seconds 	4.050567 	 Total time: 0m 4s
+F1-score: 	67.51% 	Time in seconds 	3.039898 	 Total time: 0m 3s
+MergeThreshold 	26 	 MinSize 	125 Avg: 68.82 
+F1-score: 	68.97% 	Time in seconds 	3.732927 	 Total time: 0m 4s
+F1-score: 	67.76% 	Time in seconds 	3.175428 	 Total time: 0m 3s
+F1-score: 	68.99% 	Time in seconds 	2.846112 	 Total time: 0m 3s
+F1-score: 	70.87% 	Time in seconds 	4.023640 	 Total time: 0m 4s
+F1-score: 	67.51% 	Time in seconds 	3.057759 	 Total time: 0m 3s
+MergeThreshold 	26 	 MinSize 	130 Avg: 68.82 
+F1-score: 	68.97% 	Time in seconds 	3.719431 	 Total time: 0m 4s
+F1-score: 	67.76% 	Time in seconds 	3.158038 	 Total time: 0m 3s
+F1-score: 	68.99% 	Time in seconds 	2.861636 	 Total time: 0m 3s
+F1-score: 	70.87% 	Time in seconds 	4.069486 	 Total time: 0m 4s
+F1-score: 	67.51% 	Time in seconds 	3.056122 	 Total time: 0m 3s
+MergeThreshold 	26 	 MinSize 	135 Avg: 68.82 
+F1-score: 	68.01% 	Time in seconds 	3.185424 	 Total time: 0m 3s
+F1-score: 	65.78% 	Time in seconds 	2.730561 	 Total time: 0m 3s
+F1-score: 	66.80% 	Time in seconds 	2.433357 	 Total time: 0m 2s
+F1-score: 	68.21% 	Time in seconds 	3.470734 	 Total time: 0m 3s
+F1-score: 	66.74% 	Time in seconds 	2.593654 	 Total time: 0m 3s
+MergeThreshold 	26 	 MinSize 	140 Avg: 67.11 
+F1-score: 	68.01% 	Time in seconds 	3.162694 	 Total time: 0m 3s
+F1-score: 	65.78% 	Time in seconds 	2.705104 	 Total time: 0m 3s
+F1-score: 	66.80% 	Time in seconds 	2.405490 	 Total time: 0m 2s
+F1-score: 	68.21% 	Time in seconds 	3.422356 	 Total time: 0m 3s
+F1-score: 	66.74% 	Time in seconds 	2.625937 	 Total time: 0m 3s
+MergeThreshold 	26 	 MinSize 	145 Avg: 67.11 
+F1-score: 	65.92% 	Time in seconds 	2.721033 	 Total time: 0m 3s
+F1-score: 	63.12% 	Time in seconds 	2.311306 	 Total time: 0m 2s
+F1-score: 	64.92% 	Time in seconds 	2.159634 	 Total time: 0m 2s
+F1-score: 	66.54% 	Time in seconds 	2.980187 	 Total time: 0m 3s
+F1-score: 	64.37% 	Time in seconds 	2.213062 	 Total time: 0m 2s
+MergeThreshold 	26 	 MinSize 	150 Avg: 64.97 
